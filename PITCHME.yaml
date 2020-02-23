@@ -1,6 +1,6 @@
 #Look-and-Feel
-theme : moon
 layout : top-left
+theme : moon
 highlight : monokai
 code-line-numbers : true
 theme-override : /custom.css

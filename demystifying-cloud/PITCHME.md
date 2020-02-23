@@ -1,17 +1,17 @@
 [comment]: <> (https://gitpitch.com/willstobo/gitpitch-talks/master?p=demystifying-cloud)
-# Demystifying-Cloud
+## Demystifying-Cloud
 ---
-## About me
+### About me
 - March 2017 SMS/ASG Graduate
 - 3 years experience with Cloud Services
 - Cloud Providers
 ---
-## Contents
+### Contents
 - On-premise Computing
 - Cloud Computing
 - Cloud Providers
 ---
-## On-premise Computing
+### On-premise Computing
 Traditional Web Application 
 @ul
 - Webserver / Proxy Server
@@ -19,11 +19,11 @@ Traditional Web Application
 - Database Server
 @ulend
 +++
-### Traditional Web Application
+#### Traditional Web Application
 photo of traditional architecture goes here
 ![INFRA-BOT Structure](infra-bot/Infra-Bot.png)
 +++
-## The Downside with On-premise
+### The Downside with On-premise
 @ul
 - Upfront Cost.
 - Accomodating for maximum load.
@@ -32,7 +32,7 @@ photo of traditional architecture goes here
 - High Maintanence
 @ulend
 ---
-## Cloud Computing
+### Cloud Computing
 Computing resources that are:
 @ul
 - On-demand
@@ -41,7 +41,7 @@ Computing resources that are:
 - Improved manageablility
 @ulend
 +++
-## Cloud Service Models
+### Cloud Service Models
 @ul
 - Infrastructure as a service (IaaS)
 - Platform as a service (PaaS)
