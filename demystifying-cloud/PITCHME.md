@@ -2,38 +2,39 @@
 ## Demystifying-Cloud
 ---
 ### About me
-- March 2017 SMS/ASG Graduate
-- 3 years experience with Cloud Services
-- Cloud Providers
+- 2017 SMS/ASG graduate
+- 3 years experience with cloud services
 ---
 ### Contents
-- On-premise Computing
-- Cloud Computing
-- Cloud Providers
+- On-premise computing
+- Cloud computing
+- Cloud providers
 ---
 ### On-premise Computing
 Traditional Web Application 
 @ul
-- Webserver / Proxy Server
-- Application Server
-- Database Server
+- Webserver / Proxy server
+- Application server
+- Database server
 @ulend
 +++
 #### Traditional Web Application
 photo of traditional architecture goes here
-![INFRA-BOT Structure](infra-bot/Infra-Bot.png)
+![INFRA-BOT Structure](demystifying-cloud/Infra-Bot.png)
 +++
 ### The Downside with On-premise
 @ul
-- Upfront Cost.
-- Accomodating for maximum load.
-- Slow requisition.
-- Physical Security.
-- High Maintanence
+- Upfront cost
+- Accomodating for maximum load
+- Slow requisition
+- Physical security
+- High maintanence
 @ulend
 ---
 ### Cloud Computing
-Computing resources that are:
+The on-demand delivery of IT resources via the internet.
++++
+### Benefits of the Cloud
 @ul
 - On-demand
 - Pay-as-you-go
@@ -43,15 +44,15 @@ Computing resources that are:
 +++
 ### Cloud Service Models
 @ul
-- Infrastructure as a service (IaaS)
-- Platform as a service (PaaS)
-- Software as a Service (SaaS)
-- Serverless
+- Infrastructure as a service (IaaS) - individual slide on this
+- Platform as a service (PaaS) - individual slide on this
+- Software as a Service (SaaS) - individual slide on this
+- Serverless  - individual slide on this
 @ulend
 +++
 ### Cloud Service Models
 photo of cloud service models goes here
-![Cloud Service Models](infra-bot/Infra-Bot.png)
+![Cloud Service Models](demystifying-cloud/Infra-Bot.png)
 ---
 ## Cloud Service Providers
 @ul
@@ -60,9 +61,8 @@ photo of cloud service models goes here
 - Google Cloud Platform
 @ulend
 +++
-## Lets have a look
-+++?code=infra-bot/test.js&title=Lambda Changes
-@[25-27]test.js First Section of Code
+## Cloud Service Providers Services
+Picture showing how all three provide different variants of the same thing.
 ---
 # Questions?
-+++?code=infra-bot/PITCHME.md&lang=markdown&title=Extra - Git Pitch is really cool.
+
