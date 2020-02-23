@@ -20,7 +20,13 @@ Traditional Web Application
 +++
 #### Traditional Web Application
 photo of traditional architecture goes here
-![INFRA-BOT Structure](demystifying-cloud/Infra-Bot.png)
+![Traditional Architecture](demystifying-cloud/Infra-Bot.png)
++++
+#### Traditional Web Application
+What if
+- Hardware Failure?
+- Deployment to another country?
+- Huge increase in traffic?
 +++
 ### The Downside with On-premise
 @ul
