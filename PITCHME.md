@@ -51,7 +51,7 @@ Computing resources that are:
 +++
 ### Cloud Service Models
 photo of cloud service models goes here
-![INFRA-BOT Structure](infra-bot/Infra-Bot.png)
+![Cloud Service Models](infra-bot/Infra-Bot.png)
 ---
 ## Cloud Service Providers
 @ul
