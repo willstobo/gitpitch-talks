@@ -1,5 +1,5 @@
 # Layout
-layout : top-left
+#layout : top-left
 
 #Look-and-Feel
 title : "Demystifying Cloud"
@@ -9,5 +9,4 @@ code-line-numbers : true
 theme-override : /custom.css
 
 # Behavior
-transition : fade
-
+transition : convex
