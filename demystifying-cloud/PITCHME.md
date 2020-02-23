@@ -23,10 +23,12 @@ photo of traditional architecture goes here
 ![Traditional Architecture](demystifying-cloud/Infra-Bot.png)
 +++
 #### Traditional Web Application
-What if
+What if....
+@ul
 - Hardware Failure?
 - Deployment to another country?
 - Huge increase in traffic?
+@ulend
 +++
 ### The Downside with On-premise
 @ul
