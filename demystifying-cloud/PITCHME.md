@@ -23,7 +23,7 @@ photo of traditional architecture goes here
 ![Traditional Architecture](demystifying-cloud/Infra-Bot.png)
 +++
 #### Traditional Web Application
-What if....
+What if.... potentially done with photos
 @ul
 - Hardware Failure?
 - Deployment to another country?
@@ -34,7 +34,7 @@ What if....
 @ul
 - Upfront cost
 - Accomodating for maximum load
-- Slow requisition
+- Slow provisioning
 - Physical security
 - High maintanence
 @ulend
@@ -42,25 +42,30 @@ What if....
 ### Cloud Computing
 The on-demand delivery of IT resources via the internet.
 +++
+### Cloud Service Models
+photo of cloud service models goes here
+![Cloud Service Models](demystifying-cloud/Infra-Bot.png)
++++
+### Infrastructure as a service (IaaS)
+
++++
+### Platform as a service (PaaS)
+
++++
+### Software as a Service (SaaS)
+
++++
+### Serverless
+
++++
 ### Benefits of the Cloud
 @ul
 - On-demand
 - Pay-as-you-go
 - Less maintanence
 - Improved manageablility
+- Significantly lower costs
 @ulend
-+++
-### Cloud Service Models
-@ul
-- Infrastructure as a service (IaaS) - individual slide on this
-- Platform as a service (PaaS) - individual slide on this
-- Software as a Service (SaaS) - individual slide on this
-- Serverless  - individual slide on this
-@ulend
-+++
-### Cloud Service Models
-photo of cloud service models goes here
-![Cloud Service Models](demystifying-cloud/Infra-Bot.png)
 ---
 ## Cloud Service Providers
 @ul
