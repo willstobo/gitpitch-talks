@@ -19,7 +19,6 @@ Traditional Web Application
 @ulend
 +++
 #### Traditional Web Application
-photo of traditional architecture goes here
 ![Traditional Architecture](demystifying-cloud/on-prem.jpg)
 +++
 #### Traditional Web Application
