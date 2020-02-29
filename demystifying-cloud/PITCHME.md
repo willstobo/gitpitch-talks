@@ -59,27 +59,32 @@ What if.... potentially done with photos
 @ulend
 +++
 ### Platform as a service (PaaS)
-The capability provided to the consumer is to deploy onto the cloud infrastructure consumer-created or acquired applications created using programming languages, libraries, services, and tools supported by the provider. The consumer does not manage or control the underlying cloud infrastructure including network, servers, operating systems, or storage, but has control over the deployed applications and possibly configuration settings for the application-hosting environment.
+- Provides a managed platform to develop and run applications
+- Eliminates need to install software or hardware, allowing the user to focus on the application.
 +++
 ### Benefits of the PaaS
 @ul
 - On-demand application hosting
 - Pay-as-you-go
 - Reduced responsibiltiy
+- Rapid Time-to-market
 @ulend
 +++
 ### Software as a Service (SaaS)
-The capability provided to the consumer is to use the provider's applications running on a cloud infrastructure. The applications are accessible from various client devices through either a thin client interface, such as a web browser (e.g., web-based email), or a program interface. The consumer does not manage or control the underlying cloud infrastructure including network, servers, operating systems, storage, or even individual application capabilities, with the possible exception of limited user-specific application configuration settings.
+- Provider sells an application as a service
+- Fully hosted and managed by the provider
+- Immediate access to full application services
 +++
 ### Benefits of the SaaS
 @ul
 - On-demand applications
 - Pay-per-user or Pay-per-license
-- Ready-to-use
+- Accessible anywhere
 @ulend
 +++
 ### Serverless
-Serverless computing is a cloud computing code execution model in which the cloud provider fully manages starting and stopping virtual machines as necessary to serve requests, and requests are billed by an abstract measure of the resources required to satisfy the request, rather than per virtual machine, per hour
+- Serverless computing is a cloud computing code execution model in which the cloud provider fully manages starting and stopping virtual machines as necessary to serve requests
+- Consumers billed by an abstract measure of the resources required to satisfy the request, rather than per virtual machine, per hour
 +++
 ### Benefits of the Serverless
 @ul
