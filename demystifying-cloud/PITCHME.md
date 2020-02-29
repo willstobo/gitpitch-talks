@@ -28,6 +28,11 @@ What if.... potentially done with photos
 - Deployment to another country?
 - Huge increase in traffic?
 @ulend
+Note:
+- Hardware failure will cause your applications to go down and if you don't have any spare servers to offer your service, cause an outage.
+- When you rely on physical servers, you rely on a team of people to keep these running for you. What happens if you want to deploy your application on the other side of the world? New hardware, more workers, more cost.
+- If your traffic suddenly surges beyond your maximum capacity, you can potentially miss out on an increase in business.
+- This also increases your inital cost as you need to have servers capable of with standing the peak usage.
 +++
 ### The Downside with On-premise
 @ul
