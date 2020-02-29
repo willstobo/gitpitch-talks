@@ -46,8 +46,8 @@ Cloud services come in a variety of models.
 ![Cloud Service Models](demystifying-cloud/cloud-models.png)
 +++
 ### Infrastructure as a service (IaaS)
-The cloud provider hosts your infrastructure components that would traditionally be present in an on-site data center (such as servers, storage and networking hardware).
-Users maintain control over the operating systems, storage, networking & deployed applications.
+- The cloud provider hosts your infrastructure components that would traditionally be present in an on-site data center (such as servers, storage and networking hardware).
+- Users maintain control over the operating systems, storage, networking & deployed applications.
 +++
 ### Benefits of the IaaS
 @ul
