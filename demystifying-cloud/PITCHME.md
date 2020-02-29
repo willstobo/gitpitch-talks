@@ -39,8 +39,8 @@ What if.... potentially done with photos
 @ulend
 ---
 ### Cloud Computing
-The on-demand delivery of IT resources via the internet.
-Cloud services come in a variety of models.
+- The on-demand delivery of IT resources via the internet.
+- Cloud services come in a variety of models.
 +++
 ### Cloud Service Models
 ![Cloud Service Models](demystifying-cloud/cloud-models.png)
@@ -85,7 +85,6 @@ Serverless computing is a cloud computing code execution model in which the clou
 @ul
 - Significantly cheaper
 - Pay-as-you-go to the millisecond
-- 
 @ulend
 ---
 ## Cloud Service Providers
