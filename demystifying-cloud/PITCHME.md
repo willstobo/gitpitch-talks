@@ -84,7 +84,7 @@ What if.... potentially done with photos
 +++
 ### Serverless
 - Cloud provider manages and orchastrates the execution of your application code to serve requests
-- Consumers are billed for the duration of code execution
+- Consumers are only billed for the duration of code execution
 Note:
 - Serverless computing is a cloud computing code execution model in which the cloud provider fully manages starting and stopping virtual machines as necessary to serve requests
 - Consumers billed by an abstract measure of the resources required to satisfy the request, rather than per virtual machine, per hour
@@ -92,7 +92,8 @@ Note:
 ### Benefits of the Serverless
 @ul
 - Significantly cheaper
-- Pay-as-you-go to the millisecond
+- Pay-as-you-go, billed by millisecond
+- Only focus on the code
 @ulend
 ---
 ## Cloud Service Providers
