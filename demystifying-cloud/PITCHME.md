@@ -40,20 +40,22 @@ What if.... potentially done with photos
 ---
 ### Cloud Computing
 The on-demand delivery of IT resources via the internet.
+Cloud services come in a variety of models.
 +++
 ### Cloud Service Models
-photo of cloud service models goes here
-![Cloud Service Models](demystifying-cloud/Infra-Bot.png)
+![Cloud Service Models](demystifying-cloud/cloud-models.png)
 +++
 ### Infrastructure as a service (IaaS)
-Where the consumer is able to deploy and run arbitrary software, which can include operating systems and applications. The consumer does not manage or control the underlying cloud infrastructure but has control over operating systems, storage, and deployed applications; and possibly limited control of select networking components (e.g., host firewalls)
+The cloud provider hosts your infrastructure components that would traditionally be present in an on-site data center (such as servers, storage and networking hardware).
+Users maintain control over the operating systems, storage, networking & deployed applications.
 +++
 ### Benefits of the IaaS
 @ul
 - On-demand compute resources
-- Pay-as-you-go, no upfront cost
+- Pay-as-you-go, no capital expenses
 - Shared responsibility
-- Flexible
+- Most flexible cloud model
+- Complete, scalable control of infrastructure
 @ulend
 +++
 ### Platform as a service (PaaS)
@@ -71,7 +73,9 @@ The capability provided to the consumer is to use the provider's applications ru
 +++
 ### Benefits of the SaaS
 @ul
-- 
+- On-demand applications
+- Pay-per-user or Pay-per-license
+- Ready-to-use
 @ulend
 +++
 ### Serverless
