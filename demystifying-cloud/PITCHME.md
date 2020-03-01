@@ -58,6 +58,9 @@ Note:
 - Instead of buying and setting up servers on-premise, simply request on-demand resources from cloud providers over the internet.
 - There is a variety of different cloud models that offer different aspects of the cloud.
 +++
+### Cloud Web Application
+![Cloud Web App](demystifying-cloud/cloud.jpg)
++++
 ### Cloud Service Models
 ![Source: https://dachou.github.io/](demystifying-cloud/cloud-models.png)
 Note:
