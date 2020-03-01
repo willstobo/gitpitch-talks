@@ -24,15 +24,15 @@ Note:
 - Lets go with your typical website as an example, youd expect this to be compromised of the following.
 - Webserver, App Server, and a database server.
 +++
-#### Traditional Web Application
+### Traditional Web Application
 ![Traditional Architecture](demystifying-cloud/on-prem.jpg)
 +++
-#### Traditional Web Application
-What do you do when...
+### Traditional Web Application
+@size[12px](What do you do when...)
 @ul
-- Hardware Failure?
-- Deployment to another country?
+- Hardware fails?
 - Huge increase in traffic?
+- Deploy to another country?
 @ulend
 Note:
 - Hardware failure will cause your applications to go down and if you don't have any spare servers to offer your service, cause an outage.
@@ -78,7 +78,6 @@ Note:
 - Most flexible cloud model
 - Complete, scalable control of infrastructure
 @ulend
-
 +++
 ### Platform as a service (PaaS)
 - Provides a managed platform to develop and run applications
