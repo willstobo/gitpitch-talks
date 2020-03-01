@@ -8,6 +8,7 @@
 ### Contents
 - On-premise computing
 - Cloud computing
+- Cloud service models
 - Cloud providers
 ---
 ### On-premise Computing
@@ -17,12 +18,17 @@ Traditional Web Application
 - Application server
 - Database server
 @ulend
+Note:
+- Before we cover cloud computing, lets take a look at what on-premise infrasturcture would look like.
+- On-premise computing is still very much the norm and the shift to cloud is still in progress.
+- Lets go with your typical website as an example, youd expect this to be compromised of the following.
+- Webserver, App Server, and a database server.
 +++
 #### Traditional Web Application
 ![Traditional Architecture](demystifying-cloud/on-prem.jpg)
 +++
 #### Traditional Web Application
-What if.... potentially done with photos
+What do you do when...
 @ul
 - Hardware Failure?
 - Deployment to another country?
@@ -46,13 +52,23 @@ Note:
 ### Cloud Computing
 - The on-demand delivery of IT resources via the internet.
 - Cloud services come in a variety of models.
+Note:
+- Cloud computing is the next generation of infrastructure.
+- Instead of buying and setting up servers on-premise, simply request on-demand resources from cloud providers over the internet.
+- There is a variety of different cloud models that offer different aspects of the cloud.
 +++
 ### Cloud Service Models
-![Cloud Service Models](demystifying-cloud/cloud-models.png)
+![Ref https://dachou.github.io/](demystifying-cloud/cloud-models.png)
+Note:
+- Here was can see a breakdown of the cloud service models and on-premise.
+- As you can see, at each different level we can see the level of responsiblity for the customer changes.
+- This can bring simplicity to the services used, but also reduce the control you have.
+- Each model has their own benefits and can be used in different situations, based on your needs.
 +++
 ### Infrastructure as a service (IaaS)
 - The cloud provider hosts your infrastructure components that would traditionally be present in an on-site data center (such as servers, storage and networking hardware).
 - Users maintain control over the operating systems, storage, networking & deployed applications.
+- Products: AWS EC2, Rackspace, Google Compute Engine
 +++
 ### Benefits of the IaaS
 @ul
@@ -62,10 +78,14 @@ Note:
 - Most flexible cloud model
 - Complete, scalable control of infrastructure
 @ulend
+
 +++
 ### Platform as a service (PaaS)
 - Provides a managed platform to develop and run applications
 - Eliminates need to install software or hardware, allowing the user to focus on the application.
+- Products: AWS Elastic Beanstalk, Heroku, Windows Azure
+Note:
+- Some exmaples of PaaS AWS Elastic Beanstalk, Heroku, Windows Azure
 +++
 ### Benefits of the PaaS
 @ul
@@ -79,6 +99,9 @@ Note:
 - Provider sells an application as a service
 - Fully hosted and managed by the provider
 - Immediate access to full application services
+- Products: Salesforce, Slack, Dropbox, Uber, Pega
+Note:
+- Some exmaples of SaaS systems, 
 +++
 ### Benefits of the SaaS
 @ul
@@ -90,6 +113,7 @@ Note:
 ### Serverless
 - Cloud provider manages and orchastrates the execution of your application code to serve requests
 - Consumers are only billed for the duration of code execution
+- Products AWS Lambda, Azure Functions, Cloud Functions
 Note:
 - Serverless computing is a cloud computing code execution model in which the cloud provider fully manages starting and stopping virtual machines as necessary to serve requests
 - Consumers billed by an abstract measure of the resources required to satisfy the request, rather than per virtual machine, per hour
@@ -109,7 +133,7 @@ Note:
 @ulend
 +++
 ## Cloud Service Providers Services
-Picture showing how all three provide different variants of the same thing.
+![Ref https://www.cloudhealthtech.com/](demystifying-cloud/cloudvscloud.png)
 ---
 # Questions?
 
