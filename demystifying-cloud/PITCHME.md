@@ -2,21 +2,21 @@
 ## Demystifying-Cloud
 ---
 ### About me
-- 2017 SMS/ASG graduate
-- 3 years experience with cloud services
+- @size[32px](2017 SMS/ASG graduate)
+- @size[32px](3 years experience with cloud services)
 ---
 ### Contents
-- On-premise computing
-- Cloud computing
-- Cloud service models
-- Cloud providers
+- @size[32px](On-premise computing)
+- @size[32px](Cloud computing)
+- @size[32px](Cloud service models)
+- @size[32px](Cloud providers)
 ---
 ### On-premise Computing
 Traditional Web Application 
 @ul
-- Webserver / Proxy server
-- Application server
-- Database server
+- @size[32px](Webserver / Proxy server)
+- @size[32px](Application server)
+- @size[32px](Database server)
 @ulend
 Note:
 - Before we cover cloud computing, lets take a look at what on-premise infrasturcture would look like.
@@ -42,16 +42,16 @@ Note:
 +++
 ### The Downside with On-premise
 @ul
-- Upfront cost
-- Accomodating for maximum load
-- Slow provisioning
-- Physical security
-- High maintanence
+- @size[32px](Upfront cost)
+- @size[32px](Accomodating for maximum load)
+- @size[32px](Slow provisioning)
+- @size[32px](Physical security)
+- @size[32px](High maintanence)
 @ulend
 ---
 ### Cloud Computing
-- The on-demand delivery of IT resources via the internet.
-- Cloud services come in a variety of models.
+- @size[32px](The on-demand delivery of IT resources via the internet.)
+- @size[32px](Cloud services come in a variety of models.)
 Note:
 - Cloud computing is the next generation of infrastructure.
 - Instead of buying and setting up servers on-premise, simply request on-demand resources from cloud providers over the internet.
@@ -72,11 +72,11 @@ Note:
 +++
 ### Benefits of the IaaS
 @ul
-- On-demand compute resources
-- Pay-as-you-go, no capital expenses
-- Shared responsibility
-- Most flexible cloud model
-- Complete, scalable control of infrastructure
+- @size[32px](On-demand compute resources)
+- @size[32px](Pay-as-you-go, no capital expenses)
+- @size[32px](Shared responsibility)
+- @size[32px](Most flexible cloud model)
+- @size[32px](Complete, scalable control of infrastructure)
 @ulend
 +++
 ### Platform as a service (PaaS)
@@ -88,10 +88,10 @@ Note:
 +++
 ### Benefits of the PaaS
 @ul
-- On-demand application hosting
-- Pay-as-you-go
-- Reduced responsibiltiy
-- Rapid Time-to-market
+- @size[32px](On-demand application hosting)
+- @size[32px](Pay-as-you-go)
+- @size[32px](Reduced responsibiltiy)
+- @size[32px](Rapid Time-to-market)
 @ulend
 +++
 ### Software as a Service (SaaS)
@@ -104,9 +104,9 @@ Note:
 +++
 ### Benefits of the SaaS
 @ul
-- On-demand applications
-- Pay-per-user or Pay-per-license
-- Accessible anywhere
+- @size[32px](On-demand applications)
+- @size[32px](Pay-per-user or Pay-per-license)
+- @size[32px](Accessible anywhere)
 @ulend
 +++
 ### Serverless
@@ -119,16 +119,16 @@ Note:
 +++
 ### Benefits of the Serverless
 @ul
-- Significantly cheaper
-- Pay-as-you-go, billed by millisecond
-- Only focus on the code
+- @size[32px](Significantly cheaper)
+- @size[32px](Pay-as-you-go, billed by millisecond)
+- @size[32px](Only focus on the code)
 @ulend
 ---
 ## Cloud Service Providers
 @ul
-- Amazon Web Services
-- Microsoft Azure
-- Google Cloud Platform
+- @size[32px](Amazon Web Services)
+- @size[32px](Microsoft Azure)
+- @size[32px](Google Cloud Platform)
 @ulend
 +++
 ## Cloud Service Providers Services
