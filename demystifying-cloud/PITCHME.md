@@ -52,7 +52,7 @@ Note:
 ---
 ### Cloud Computing
 - @size[32px](The on-demand delivery of IT resources via the internet.)
-- @size[32px](Cloud services come in a variety of models.)
+- @size[32px](Essentially renting/using someone elses computer.)
 Note:
 - Cloud computing is the next generation of infrastructure.
 - Instead of buying and setting up servers on-premise, simply request on-demand resources from cloud providers over the internet.
@@ -60,6 +60,11 @@ Note:
 +++
 ### Cloud Web Application
 ![Cloud Web App](demystifying-cloud/cloud.jpg)
++++
+### Cloud Computing
+- @size[32px](Cloud providers offer a variety of different services.)
+- @size[32px](Cloud solutions typically comprised of multiple different services.)
+- @size[32px](Cloud services come in a variety of models.)
 +++
 ### Cloud Service Models
 ![Source: https://dachou.github.io/](demystifying-cloud/cloud-models.png)
