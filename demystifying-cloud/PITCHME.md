@@ -17,6 +17,7 @@ Traditional Web Application
 - @size[32px](Webserver / Proxy server)
 - @size[32px](Application server)
 - @size[32px](Database server)
+- @size[32px](Networking hardware)
 @ulend
 Note:
 - Before we cover cloud computing, lets take a look at what on-premise infrasturcture would look like.
@@ -27,8 +28,7 @@ Note:
 ### Traditional Web Application
 ![Traditional Architecture](demystifying-cloud/on-prem.jpg)
 +++
-### Traditional Web Application
-@size[32px](What do you do when...)
+### What happens when...
 @ul
 - @size[32px](Hardware fails?)
 - @size[32px](Huge increase in traffic?)
@@ -42,11 +42,12 @@ Note:
 +++
 ### The Downside with On-premise
 @ul
-- @size[32px](Upfront cost)
-- @size[32px](Accomodating for maximum load)
+- @size[32px](Significant upfront cost)
+- @size[32px](Always accomodating for maximum load)
 - @size[32px](Slow provisioning)
 - @size[32px](Physical security)
 - @size[32px](High maintanence)
+- @size[32px](Takes up physical space)
 @ulend
 ---
 ### Cloud Computing
@@ -58,7 +59,7 @@ Note:
 - There is a variety of different cloud models that offer different aspects of the cloud.
 +++
 ### Cloud Service Models
-![Ref https://dachou.github.io/](demystifying-cloud/cloud-models.png)
+![Source: https://dachou.github.io/](demystifying-cloud/cloud-models.png)
 Note:
 - Here was can see a breakdown of the cloud service models and on-premise.
 - As you can see, at each different level we can see the level of responsiblity for the customer changes.
@@ -74,7 +75,7 @@ Note:
 @ul
 - @size[32px](On-demand compute resources)
 - @size[32px](Pay-as-you-go, no capital expenses)
-- @size[32px](Shared responsibility)
+- @size[32px](Reduced responsibility)
 - @size[32px](Most flexible cloud model)
 - @size[32px](Complete, scalable control of infrastructure)
 @ulend
@@ -90,7 +91,7 @@ Note:
 @ul
 - @size[32px](On-demand application hosting)
 - @size[32px](Pay-as-you-go)
-- @size[32px](Reduced responsibiltiy)
+- @size[32px](Further reduced responsibiltiy)
 - @size[32px](Rapid Time-to-market)
 @ulend
 +++
@@ -107,10 +108,11 @@ Note:
 - @size[32px](On-demand applications)
 - @size[32px](Pay-per-user or Pay-per-license)
 - @size[32px](Accessible anywhere)
+- @size[32px](Scales as required)
 @ulend
 +++
 ### Serverless
-- @size[32px](Cloud provider manages and orchastrates the execution of your application code to serve requests)
+- @size[32px](Cloud provider manages and orchestrate the execution of your application code to serve requests)
 - @size[32px](Consumers are only billed for the duration of code execution)
 - @size[32px](Products AWS Lambda, Azure Functions, Cloud Functions)
 Note:
@@ -132,7 +134,7 @@ Note:
 @ulend
 +++
 ## Cloud Service Providers Services
-![Ref https://www.cloudhealthtech.com/](demystifying-cloud/cloudvscloud.png)
+![Source: https://www.cloudhealthtech.com/](demystifying-cloud/cloudvscloud.png)
 ---
 # Questions?
 
