@@ -92,14 +92,14 @@ Note:
 - @size[32px](On-demand application hosting.)
 - @size[32px](Pay-as-you-go.)
 - @size[32px](Further reduced responsibiltiy.)
-- @size[32px](Rapid Time-to-market.)
+- @size[32px](Rapid time-to-market.)
 @ulend
 +++
 ### Software as a Service (SaaS)
-- @size[32px](Provider sells an application as a service.)
+- @size[32px](Provider sells a finished application as a service.)
 - @size[32px](Fully hosted and managed by the provider.)
 - @size[32px](Immediate access to full application services.)
-- @size[32px](Products: Salesforce, Slack, Dropbox, Uber, Pega.)
+- @size[32px](Products: Salesforce, Slack, Dropbox, Pega.)
 Note:
 - Some exmaples of SaaS systems, 
 +++
@@ -121,9 +121,10 @@ Note:
 +++
 ### Benefits of the Serverless
 @ul
-- @size[32px](Cheapest cost, if used properly.)
-- @size[32px](Pay-as-you-go, billed by millisecond.)
+- @size[32px](Significantly cheaper, most cost-effective cloud model.)
+- @size[32px](Pay-as-you-go, billed by the millisecond.)
 - @size[32px](Only focus on the code.)
+- @size[32px](Scalable by default.)
 @ulend
 ---
 ## Cloud Service Providers
