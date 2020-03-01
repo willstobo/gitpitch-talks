@@ -28,7 +28,7 @@ Note:
 ![Traditional Architecture](demystifying-cloud/on-prem.jpg)
 +++
 ### Traditional Web Application
-@size[28px](What do you do when...)
+@size[32px](What do you do when...)
 @ul
 - Hardware fails?
 - Huge increase in traffic?
