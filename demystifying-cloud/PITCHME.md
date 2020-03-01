@@ -30,9 +30,9 @@ Note:
 ### Traditional Web Application
 @size[32px](What do you do when...)
 @ul
-- Hardware fails?
-- Huge increase in traffic?
-- Deploy to another country?
+- @size[32px](Hardware fails?)
+- @size[32px](Huge increase in traffic?)
+- @size[32px](Deploy to another country?)
 @ulend
 Note:
 - Hardware failure will cause your applications to go down and if you don't have any spare servers to offer your service, cause an outage.
@@ -66,9 +66,9 @@ Note:
 - Each model has their own benefits and can be used in different situations, based on your needs.
 +++
 ### Infrastructure as a service (IaaS)
-- The cloud provider hosts your infrastructure components that would traditionally be present in an on-site data center (such as servers, storage and networking hardware).
-- Users maintain control over the operating systems, storage, networking & deployed applications.
-- Products: AWS EC2, Rackspace, Google Compute Engine
+- @size[32px](The cloud provider hosts your infrastructure components that would traditionally be present in an on-site data center.)
+- @size[32px](Users maintain control over the operating systems, storage, networking & deployed applications.)
+- @size[32px](Products: AWS EC2, Rackspace, Google Compute Engine)
 +++
 ### Benefits of the IaaS
 @ul
@@ -80,9 +80,9 @@ Note:
 @ulend
 +++
 ### Platform as a service (PaaS)
-- Provides a managed platform to develop and run applications
-- Eliminates need to install software or hardware, allowing the user to focus on the application.
-- Products: AWS Elastic Beanstalk, Heroku, Windows Azure
+- @size[32px](Provides a managed platform to develop and run applications)
+- @size[32px](Eliminates need to install software or hardware, allowing the user to focus on the application.)
+- @size[32px](Products: AWS Elastic Beanstalk, Heroku, Windows Azure)
 Note:
 - Some exmaples of PaaS AWS Elastic Beanstalk, Heroku, Windows Azure
 +++
@@ -95,10 +95,10 @@ Note:
 @ulend
 +++
 ### Software as a Service (SaaS)
-- Provider sells an application as a service
-- Fully hosted and managed by the provider
-- Immediate access to full application services
-- Products: Salesforce, Slack, Dropbox, Uber, Pega
+- @size[32px](Provider sells an application as a service)
+- @size[32px](Fully hosted and managed by the provider)
+- @size[32px](Immediate access to full application services)
+- @size[32px](Products: Salesforce, Slack, Dropbox, Uber, Pega)
 Note:
 - Some exmaples of SaaS systems, 
 +++
@@ -110,9 +110,9 @@ Note:
 @ulend
 +++
 ### Serverless
-- Cloud provider manages and orchastrates the execution of your application code to serve requests
-- Consumers are only billed for the duration of code execution
-- Products AWS Lambda, Azure Functions, Cloud Functions
+- @size[32px](Cloud provider manages and orchastrates the execution of your application code to serve requests)
+- @size[32px](Consumers are only billed for the duration of code execution)
+- @size[32px](Products AWS Lambda, Azure Functions, Cloud Functions)
 Note:
 - Serverless computing is a cloud computing code execution model in which the cloud provider fully manages starting and stopping virtual machines as necessary to serve requests
 - Consumers billed by an abstract measure of the resources required to satisfy the request, rather than per virtual machine, per hour
