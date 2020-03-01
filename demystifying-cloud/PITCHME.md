@@ -42,12 +42,12 @@ Note:
 +++
 ### The Downside with On-premise
 @ul
-- @size[32px](Significant upfront cost)
-- @size[32px](Always accomodating for maximum load)
-- @size[32px](Slow provisioning)
-- @size[32px](Physical security)
-- @size[32px](High maintanence)
-- @size[32px](Takes up physical space)
+- @size[32px](Significant upfront cost.)
+- @size[32px](Always accomodating for maximum load.)
+- @size[32px](Slow provisioning.)
+- @size[32px](Physical security.)
+- @size[32px](High maintanence.)
+- @size[32px](Takes up physical space.)
 @ulend
 ---
 ### Cloud Computing
@@ -69,61 +69,61 @@ Note:
 ### Infrastructure as a service (IaaS)
 - @size[32px](The cloud provider hosts your infrastructure components that would traditionally be present in an on-site data center.)
 - @size[32px](Users maintain control over the operating systems, storage, networking & deployed applications.)
-- @size[32px](Products: AWS EC2, Rackspace, Google Compute Engine)
+- @size[32px](Products: AWS EC2, Rackspace, Google Compute Engine.)
 +++
 ### Benefits of the IaaS
 @ul
-- @size[32px](On-demand compute resources)
-- @size[32px](Pay-as-you-go, no capital expenses)
-- @size[32px](Reduced responsibility)
-- @size[32px](Most flexible cloud model)
-- @size[32px](Complete, scalable control of infrastructure)
+- @size[32px](On-demand compute resources.)
+- @size[32px](Pay-as-you-go, no capital expenses.)
+- @size[32px](Reduced responsibility.)
+- @size[32px](Most flexible cloud model.)
+- @size[32px](Complete, scalable control of infrastructure.)
 @ulend
 +++
 ### Platform as a service (PaaS)
-- @size[32px](Provides a managed platform to develop and run applications)
+- @size[32px](Provides a managed platform to develop and run applications.)
 - @size[32px](Eliminates need to install software or hardware, allowing the user to focus on the application.)
-- @size[32px](Products: AWS Elastic Beanstalk, Heroku, Windows Azure)
+- @size[32px](Products: AWS Elastic Beanstalk, Heroku, Windows Azure.)
 Note:
 - Some exmaples of PaaS AWS Elastic Beanstalk, Heroku, Windows Azure
 +++
 ### Benefits of the PaaS
 @ul
-- @size[32px](On-demand application hosting)
-- @size[32px](Pay-as-you-go)
-- @size[32px](Further reduced responsibiltiy)
-- @size[32px](Rapid Time-to-market)
+- @size[32px](On-demand application hosting.)
+- @size[32px](Pay-as-you-go.)
+- @size[32px](Further reduced responsibiltiy.)
+- @size[32px](Rapid Time-to-market.)
 @ulend
 +++
 ### Software as a Service (SaaS)
-- @size[32px](Provider sells an application as a service)
-- @size[32px](Fully hosted and managed by the provider)
-- @size[32px](Immediate access to full application services)
-- @size[32px](Products: Salesforce, Slack, Dropbox, Uber, Pega)
+- @size[32px](Provider sells an application as a service.)
+- @size[32px](Fully hosted and managed by the provider.)
+- @size[32px](Immediate access to full application services.)
+- @size[32px](Products: Salesforce, Slack, Dropbox, Uber, Pega.)
 Note:
 - Some exmaples of SaaS systems, 
 +++
 ### Benefits of the SaaS
 @ul
-- @size[32px](On-demand applications)
-- @size[32px](Pay-per-user or Pay-per-license)
-- @size[32px](Accessible anywhere)
-- @size[32px](Scales as required)
+- @size[32px](On-demand applications.)
+- @size[32px](Pay-per-user or Pay-per-license.)
+- @size[32px](Accessible anywhere.)
+- @size[32px](Scales as required.)
 @ulend
 +++
 ### Serverless
-- @size[32px](Cloud provider manages and orchestrate the execution of your application code to serve requests)
-- @size[32px](Consumers are only billed for the duration of code execution)
-- @size[32px](Products AWS Lambda, Azure Functions, Cloud Functions)
+- @size[32px](Cloud provider manages and orchestrates the execution of your application code to serve requests.)
+- @size[32px](Consumers are only billed for the duration of code execution.)
+- @size[32px](Products AWS Lambda, Azure Functions, Cloud Functions.)
 Note:
 - Serverless computing is a cloud computing code execution model in which the cloud provider fully manages starting and stopping virtual machines as necessary to serve requests
 - Consumers billed by an abstract measure of the resources required to satisfy the request, rather than per virtual machine, per hour
 +++
 ### Benefits of the Serverless
 @ul
-- @size[32px](Significantly cheaper)
-- @size[32px](Pay-as-you-go, billed by millisecond)
-- @size[32px](Only focus on the code)
+- @size[32px](Cheapest cost, if used properly.)
+- @size[32px](Pay-as-you-go, billed by millisecond.)
+- @size[32px](Only focus on the code.)
 @ulend
 ---
 ## Cloud Service Providers
