@@ -12,7 +12,12 @@
 - @size[32px](Cloud providers)
 ---
 ### On-premise Computing
-Traditional Web Application 
+- @size[32px](Traditional method of running applications and back-end systems.)
+- @size[32px](Majority of systems are still on-premise.)
+- @size[32px](Typically run by an on-site team.)
++++
+### Traditional Web Application 
+Consists of:
 @ul
 - @size[32px](Webserver / Proxy server)
 - @size[32px](Application server)
@@ -58,7 +63,7 @@ Note:
 - Instead of buying and setting up servers on-premise, simply request on-demand resources from cloud providers over the internet.
 - There is a variety of different cloud models that offer different aspects of the cloud.
 +++
-### Cloud Web Application
+### Cloud Web Application (AWS)
 ![Cloud Web App](demystifying-cloud/cloud.jpg)
 +++
 ### Cloud Computing
