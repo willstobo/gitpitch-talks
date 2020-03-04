@@ -1,15 +1,10 @@
 [comment]: <> (https://gitpitch.com/willstobo/gitpitch-talks/master?p=demystifying-cloud)
 ## Demystifying-Cloud
 ---
-### About me
-- @size[32px](2017 SMS/ASG graduate)
-- @size[32px](3 years experience with cloud services)
----
-### Contents
-- @size[32px](On-premise computing)
-- @size[32px](Cloud computing)
-- @size[32px](Cloud service models)
-- @size[32px](Cloud providers)
+### Key takeaways
+- @size[32px](The difference between on-premise and cloud computing)
+- @size[32px](The different cloud service models)
+- @size[32px](Who provides these services)
 ---
 ### On-premise Computing
 - @size[32px](Traditional method of running applications and back-end systems.)
@@ -149,6 +144,11 @@ Note:
 +++
 ## Cloud Service Providers Services
 ![Source: https://www.cloudhealthtech.com/](demystifying-cloud/cloudvscloud.png)
+---
+### Recap
+- @size[32px](The difference between on-premise and cloud computing)
+- @size[32px](The different cloud service models)
+- @size[32px](Who provides these services)
 ---
 # Questions?
 
