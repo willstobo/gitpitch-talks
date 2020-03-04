@@ -4,7 +4,7 @@
 ### Key takeaways
 - @size[32px](The difference between on-premise and cloud computing)
 - @size[32px](The different cloud service models)
-- @size[32px](Who provides these services)
+- @size[32px](Who provides cloud computing?)
 ---
 ### On-premise Computing
 - @size[32px](Traditional method of running applications and back-end systems.)
@@ -148,7 +148,7 @@ Note:
 ### Recap
 - @size[32px](The difference between on-premise and cloud computing)
 - @size[32px](The different cloud service models)
-- @size[32px](Who provides these services)
+- @size[32px](Who provides cloud computing?)
 ---
 # Questions?
 
