@@ -14,16 +14,16 @@
 ### Traditional Web Application 
 Consists of:
 @ul
-- @size[32px](Webserver / Proxy server)
+- @size[32px](Web server / Proxy server)
 - @size[32px](Application server)
 - @size[32px](Database server)
 - @size[32px](Networking hardware)
 @ulend
 Note:
-- Before we cover cloud computing, lets take a look at what on-premise infrasturcture would look like.
+- Before we cover cloud computing, lets take a look at what on-premise infrastructure would look like.
 - On-premise computing is still very much the norm and the shift to cloud is still in progress.
 - Lets go with your typical website as an example, youd expect this to be compromised of the following.
-- Webserver, App Server, and a database server.
+- Web server, App Server, and a database server.
 +++
 ### Traditional Web Application
 ![Traditional Architecture](demystifying-cloud/on-prem.jpg)
@@ -43,16 +43,16 @@ Note:
 ### The Downside with On-premise
 @ul
 - @size[32px](Significant upfront cost.)
-- @size[32px](Always accomodating for maximum load.)
+- @size[32px](Always accommodating for maximum load.)
 - @size[32px](Slow provisioning.)
 - @size[32px](Physical security.)
-- @size[32px](High maintanence.)
+- @size[32px](High maintenance.)
 - @size[32px](Takes up physical space.)
 @ulend
 ---
 ### Cloud Computing
 - @size[32px](The on-demand delivery of IT resources via the internet.)
-- @size[32px](Essentially renting/using someone elses computer.)
+- @size[32px](Essentially renting/using someone else's computer.)
 Note:
 - Cloud computing is the next generation of infrastructure.
 - Instead of buying and setting up servers on-premise, simply request on-demand resources from cloud providers over the internet.
@@ -99,7 +99,7 @@ Note:
 @ul
 - @size[32px](On-demand application hosting.)
 - @size[32px](Pay-as-you-go.)
-- @size[32px](Further reduced responsibiltiy.)
+- @size[32px](Further reduced responsibility.)
 - @size[32px](Rapid time-to-market.)
 @ulend
 +++
@@ -109,7 +109,7 @@ Note:
 - @size[32px](Immediate access to full application services.)
 - @size[32px](Products: Salesforce, Slack, Dropbox, Pega.)
 Note:
-- Some exmaples of SaaS systems, 
+- Some examples of SaaS systems, 
 +++
 ### Benefits of the SaaS
 @ul
