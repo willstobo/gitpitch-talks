@@ -1,0 +1,12 @@
+# Layout
+#layout : top-left
+
+#Look-and-Feel
+title : "Demystifying Cloud"
+theme : moon
+highlight : monokai
+code-line-numbers : true
+theme-override : /custom.css
+
+# Behavior
+transition : convex
