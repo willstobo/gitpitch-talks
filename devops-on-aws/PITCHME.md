@@ -91,7 +91,7 @@ Can create reports and store them in builds.
 ---
 
 +++?code=devops-on-aws/buildspec.yml&lang=YAML
-@snap[north span-100]
+@snap[north]
 #### AWS CodeBuild - Build Spec example
 @snapend
 ---
