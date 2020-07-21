@@ -7,10 +7,13 @@
 - @size[32px](Implementing DevOps on AWS)
 ---
 
+### Small slide on DevOps? Intro to new section?
++++
+
 ### What is DevOps?
 - Combination of practices and tools, enabling an organisation to deliver applications and services at high velocity.
 - The ability to more comfortably and quickly deploy software and infrastructure resources than traditional practices
----
++++
 
 ### Why use DevOps?
 @ul
@@ -20,13 +23,16 @@
 @ulend
 ---
 
+### Small slide on CI/CD? Intro to new section?
++++
+
 ### Continous Integration (CI)
 @ul
 - Practice of regular building, testing and validation of code.
 - Enables developers to build one to many times a day, pushing out and testing changes as they are finished.
 - The key goals of CI are to find bugs, improve software quality and reduce the turn around time of new software updates.
 @ulend
----
++++
 
 ### Continous Delivery (CD)
 @ul
@@ -48,12 +54,12 @@
 - CodeDeploy - Deployment Service
 - CodePipeline - CD Service
 @ulend
----
++++
 
 ### AWS CodeCommit
 Fully Managed Git based source control service.
 Access management provided via IAM
----
++++
 
 ### AWS CodeArtifact
 Fully Managed Artifact repository service
@@ -66,7 +72,7 @@ Publish NodeJs app
 1. Login to code artifact repo
 2. npm set scope to codeartifactory repo
 3. use npm publish with scope
----
++++
 
 ### AWS CodeBuild
 Build steps are run in containers managed by AWS.
@@ -74,7 +80,7 @@ Buildspec yaml is used to define the build task, can be sourced in by an S3 buck
 Can create reports and store them in builds.
 
 ---?code=devops-on-aws/buildspec.yml&lang=YAML&title=Build Spec
----
++++
 
 ### AWS CodeDeploy
 AWS CD Service 
@@ -84,8 +90,8 @@ Capable of deploying to ECS, Lambda & EC2 (Including on-premise machines)
 2. Setup Deployment Group
 3. Define deployment steps?
 
----?code=devops-on-aws/appspec.yml&lang=YAML&title=App Spec
----
++++?code=devops-on-aws/appspec.yml&lang=YAML&title=App Spec
++++
 
 ### CodePipeline
 Fits all the pieces together into a single pipeline
