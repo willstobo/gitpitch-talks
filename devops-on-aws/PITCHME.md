@@ -104,7 +104,7 @@ Capable of deploying to ECS, Lambda & EC2 (Including on-premise machines)
 ---
 
 ### AWS CodeDeploy - App Spec example
-+++?code=devops-on-aws/appspec.yml&lang=JSON&title=AWS CodeDeploy - BuiAppld Spec
++++?code=devops-on-aws/appspec.yml&lang=YAML&title=AWS CodeDeploy - BuiAppld Spec
 ---
 
 ### CodePipeline
