@@ -1,24 +1,24 @@
 [comment]: <> (https://gitpitch.com/willstobo/gitpitch-talks/master?p=devops-on-aws)
 ## DevOps on AWS
 ---
-Notes:
-What flow of presentation makes sense?
-Intro
-Quick intro to CI/CD/Devops and its benefits?
-Then onto AWS DevOps services
-    How we can use AWS to easily enable CI/CD practices
-    AWS DevOps suite is available
-    Quick overviews of available services.
-Quick show of services in console, kick off pipeline.
-Diagram of how services link together?
-    Same as what will be displayed in the demo
-    Try show it is easy to use & setup.
-Back to demo for result.
-Show how its implemented in AWS using the services, make it look easy
-    Live Demo? 
-    Pipeline Samples? Buildspec?
-    IaC for pipeline setup?
-Questions
+Note:
+- What flow of presentation makes sense?
+- Intro
+- Quick intro to CI/CD/Devops and its benefits?
+- Then onto AWS DevOps services
+-     How we can use AWS to easily enable CI/CD practices
+-     AWS DevOps suite is available
+-     Quick overviews of available services.
+- Quick show of services in console, kick off pipeline.
+- Diagram of how services link together?
+-     Same as what will be displayed in the demo
+-     Try show it is easy to use & setup.
+- Back to demo for result.
+- Show how its implemented in AWS using the services, make it look easy
+-     Live Demo? 
+-     Pipeline Samples? Buildspec?
+-     IaC for pipeline setup?
+- Questions
 
 ### Key takeaways
 - @size[32px](DevOps / Continous Integration / Continous Delivery)
