@@ -90,7 +90,7 @@ Buildspec yaml is used to define the build task, can be sourced in by an S3 buck
 Can create reports and store them in builds.
 ---
 
-+++?code=devops-on-aws/buildspec.yml&lang=YAML
+---?code=devops-on-aws/buildspec.yml&lang=YAML
 @snap[north]
 #### AWS CodeBuild - Build Spec example
 @snapend
