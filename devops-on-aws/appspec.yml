@@ -1,0 +1,8 @@
+version: 0.0
+os: linux
+files:
+  - source: zap-spotify.zip
+    destination: /opt/zap-spotify/
+hooks:
+  AfterInstall:
+    - location: deployment.sh
