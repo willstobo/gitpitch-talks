@@ -88,13 +88,8 @@ Publish NodeJs app
 Build steps are run in containers managed by AWS.
 Buildspec yaml is used to define the build task, can be sourced in by an S3 bucket or be located alongside the sourcecode
 Can create reports and store them in builds.
----
 
----?code=devops-on-aws/buildspec.yml&lang=YAML
-@snap[north]
-#### AWS CodeBuild - Build Spec example
-@snapend
----
+---?code=devops-on-aws/buildspec.yml&lang=YAML&title=Build Spec
 
 ### AWS CodeDeploy
 AWS CD Service 
@@ -106,7 +101,7 @@ Capable of deploying to ECS, Lambda & EC2 (Including on-premise machines)
 ---
 
 ### AWS CodeDeploy - App Spec example
-+++?code=devops-on-aws/appspec.yml&title=AWS CodeDeploy - BuiAppld Spec&lang=YAML
++++?code=devops-on-aws/appspec.yml&lang=YAML&title=App Spec
 ---
 
 ### CodePipeline
