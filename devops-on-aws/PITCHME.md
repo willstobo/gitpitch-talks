@@ -99,10 +99,8 @@ Capable of deploying to ECS, Lambda & EC2 (Including on-premise machines)
 1. Make EC2
 2. Setup Deployment Group
 3. Define deployment steps?
----
 
-### AWS CodeDeploy - App Spec example
-+++?code=devops-on-aws/appspec.yml&lang=YAML&title=App Spec
+---?code=devops-on-aws/appspec.yml&lang=YAML&title=App Spec
 ---
 
 ### CodePipeline
