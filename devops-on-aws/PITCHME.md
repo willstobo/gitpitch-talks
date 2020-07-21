@@ -91,7 +91,7 @@ Can create reports and store them in builds.
 ---
 
 ### AWS CodeBuild - Build Spec example
-+++?code=devops-on-aws/buildspec.yml&title=AWS CodeBuild - Build Spec
++++?yaml=devops-on-aws/buildspec.yml&title=AWS CodeBuild - Build Spec
 ---
 
 ### AWS CodeDeploy
