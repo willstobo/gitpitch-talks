@@ -91,7 +91,7 @@ Can create reports and store them in builds.
 ---
 
 ### AWS CodeBuild - Build Spec example
-+++?yaml=devops-on-aws/buildspec.yml&title=AWS CodeBuild - Build Spec
++++?code=devops-on-aws/buildspec.yml&title=AWS CodeBuild - Build Spec
 ---
 
 ### AWS CodeDeploy
@@ -104,7 +104,7 @@ Capable of deploying to ECS, Lambda & EC2 (Including on-premise machines)
 ---
 
 ### AWS CodeDeploy - App Spec example
-+++?code=devops-on-aws/appspec.yml&title=AWS CodeDeploy - BuiAppld Spec
++++?code=devops-on-aws/appspec.yml&lang=yaml&title=AWS CodeDeploy - BuiAppld Spec
 ---
 
 ### CodePipeline
