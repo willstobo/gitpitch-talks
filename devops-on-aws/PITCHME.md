@@ -43,9 +43,10 @@
 ---
 
 ### AWS DevOps Services
-@snap[south span-50]
-![AWS-DevOps-Services](devops-on-aws/aws-devops-services.jpg)
+@snap[east span-50]
+![AWS-DevOps-Services](devops-on-aws/aws-devops-services-vert.jpg)
 @snapend
+@snap[west span-50]
 @ul
 - CodeCommit - Fully Managed Git based source control service.
 - CodeArtifact - Fully Managed Artifact repository service
@@ -53,6 +54,7 @@
 - CodeDeploy - Deployment Service
 - CodePipeline - CD Service
 @ulend
+@snapend
 +++
 
 ### AWS CodeCommit
