@@ -92,13 +92,12 @@ Capable of deploying to ECS, Lambda & EC2 (Including on-premise machines)
 +++?code=devops-on-aws/appspec.yml&lang=YAML&title=App Spec
 +++
 
-### CodePipeline
-Fits all the pieces together into a single pipeline
-CodeCommiit -> CodeBuild -> CodeDeploy
-Handles the automated starting of the pipelines
----
+### AWS CodePipeline
+AWS continuous delivery service
+Model, visualise and automate deployment steps into pipelines.
++++
 
-### Diagram of flow?
+### CodePipeline Example
 ![AWS-DevOps-Services](devops-on-aws/codepipeline.jpg)
 Note:
 - Maybe Demo, show pipeline, start pipeline then...
