@@ -43,7 +43,7 @@
 ---
 
 ### AWS DevOps Services
-@snap[south]
+@snap[east]
 ![AWS-DevOps-Services](devops-on-aws/aws-devops-services.jpg)
 @snapend
 
