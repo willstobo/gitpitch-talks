@@ -42,7 +42,7 @@
 @ulend
 ---
 
-### AWS DevOps Services
+
 @snap[east span-50]
 ![AWS-DevOps-Services](devops-on-aws/aws-devops-services.jpg)
 @snapend
