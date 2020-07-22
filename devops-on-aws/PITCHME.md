@@ -46,11 +46,11 @@
 ![AWS-DevOps-Services](devops-on-aws/aws-devops-services.jpg)
 
 @ul
-- @size[32px](CodeCommit - Fully Managed Git based source control service.)
-- @size[32px](CodeArtifact - Fully Managed Artifact repository service)
-- @size[32px](CodeBuild - Managed CI Service for Build / Testing)
-- @size[32px](CodeDeploy - Deployment Service)
-- @size[32px](CodePipeline - CD Service)
+- @size[26px](CodeCommit - Fully Managed Git based source control service.)
+- @size[26px](CodeArtifact - Fully Managed Artifact repository service)
+- @size[26px](CodeBuild - Managed CI Service for Build / Testing)
+- @size[26px](CodeDeploy - Deployment Service)
+- @size[26px](CodePipeline - CD Service)
 @ulend
 
 +++
