@@ -100,10 +100,11 @@ Handles the automated starting of the pipelines
 
 ### Diagram of flow?
 ![AWS-DevOps-Services](devops-on-aws/codepipeline.jpg)
-Maybe Demo, show pipeline, start pipeline then...
-Show Diagram of what pipelines are doing in the background
-Show pipeline results
-Have already green pipeline as a backup for live failure
+Note:
+- Maybe Demo, show pipeline, start pipeline then...
+- Show Diagram of what pipelines are doing in the background
+- Show pipeline results
+- Have already green pipeline as a backup for live failure
 ---
 
 ### Demo
