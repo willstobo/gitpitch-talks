@@ -21,7 +21,7 @@
 - Evolving security & performance requirements. - Things change quickly, its important to be able to remain on top of application requirements
 - Maintain stability, increase velocity. - Enables higher reliability on processes and stability, whilst shortening your release cycles.
 @ulend
----
++++
 
 ### Small slide on CI/CD? Intro to new section?
 +++
@@ -78,7 +78,7 @@ Build steps are run in containers managed by AWS.
 Buildspec yaml is used to define the build task, can be sourced in by an S3 bucket or be located alongside the sourcecode
 Can create reports and store them in builds.
 
----?code=devops-on-aws/buildspec.yml&lang=YAML&title=Build Spec
++++?code=devops-on-aws/buildspec.yml&lang=YAML&title=Build Spec
 +++
 
 ### AWS CodeDeploy
