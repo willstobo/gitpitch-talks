@@ -46,11 +46,11 @@
 ![AWS-DevOps-Services](devops-on-aws/aws-devops-services.jpg)
 
 @ul
-- @size[26px](CodeCommit - Fully Managed Git based source control service.)
-- @size[26px](CodeArtifact - Fully Managed Artifact repository service)
-- @size[26px](CodeBuild - Managed CI Service for Build / Testing)
-- @size[26px](CodeDeploy - Deployment Service)
-- @size[26px](CodePipeline - CD Service)
+- CodeCommit - Fully Managed Git based source control service.
+- CodeArtifact - Fully Managed Artifact repository service
+- CodeBuild - Managed CI Service for Build / Testing
+- CodeDeploy - Deployment Service
+- CodePipeline - CD Service
 @ulend
 
 +++
@@ -99,6 +99,7 @@ Handles the automated starting of the pipelines
 ---
 
 ### Diagram of flow?
+![AWS-DevOps-Services](devops-on-aws/codepipeline.jpg)
 Maybe Demo, show pipeline, start pipeline then...
 Show Diagram of what pipelines are doing in the background
 Show pipeline results
