@@ -46,7 +46,7 @@
 @snap[south-east]
 ![AWS-DevOps-Services](devops-on-aws/aws-devops-services.jpg)
 @snapend
-
+![AWS-DevOps-Services](devops-on-aws/aws-devops-services.jpg)
 @ul
 - CodeCommit - Fully Managed Git based source control service.
 - CodeArtifact - Fully Managed Artifact repository service
