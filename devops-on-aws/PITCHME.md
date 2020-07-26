@@ -134,15 +134,13 @@ Note:
 
 +++?code=devops-on-aws/appspec.yml&lang=YAML
 
-@snap[north span-100]
+@snap[north-west span-50]
 ### Appspec.yaml                         
 @snapend
-
-@snap[south span-100]
+@snap[north-east span-50]
 @[3-5](Determine Artifact output location.)
 @[6-8](Define deployment scripts to be executed.)
 @snapend
-
 +++
 
 ### AWS CodePipeline
