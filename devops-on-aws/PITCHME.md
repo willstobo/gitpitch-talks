@@ -19,16 +19,21 @@
 - @size[32px](Maintain stability, increase velocity. )
 @ulend
 Note:
-- 1. Rapidly changing environment, companies are releasing faster then before.
-- 2. Things change quickly, its important to be able to remain on top of application requirements
-- 3. Enables higher reliability on processes and stability, whilst shortening your release cycles.
+- 1. Rapidly changing environment, companies are releasing faster then before by using modern software development practices. If you dont adapt, you will fall behind.
+- 2. With such a fast pace environment things can change quickly, its important to be able to remain on top of application requirements and security threats as they arise. With a DevOps model, youll be able to react faster and stay on top.
+- 3. Enables higher reliability on processes and stability giving confidence to your testing and deployment processes, whilst shortening your release cycles.
 +++
 
 ###  How do you do DevOps?
 @ul
-- DevOps isn't one persons job.
-- Implemented via modern software development practices
+- - @size[32px](DevOps isn't one persons job.)
+- - @size[32px](Large variety of DevOps tools can be used.)
+- - @size[32px](Implemented via modern software development practices)
 @ulend
+Note:
+- 1. Encourage the entire team to adopt the DevOps culture. Encourage the devs to build frequently. Encourage the testers to build out automation suites and to run them frequently.
+- 2. The tools and technologies may change, but the overarching goal remains the same, there is no specific tools to achieve DevOps, it is encouraged to think about and research what tools might be best for the job and to use those.
+- 3. Linking to the upcoming CI/CD
 +++
 
 ### Continous Integration (CI)
