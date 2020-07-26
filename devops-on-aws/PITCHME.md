@@ -80,16 +80,16 @@ Note:
 
 ### AWS CodeCommit
 @ul
-- Fully Managed secure Git based source control service.
-- Comprehensive access management provided via IAM
+- @size[32px](Fully Managed secure Git based source control service.)
+- @size[32px](Comprehensive access management provided via IAM.)
 @ulend
 +++
 
 ### AWS CodeArtifact
 @ul
-- Fully Managed Artifact repository service
-- Supports multiple repository types, e.g NPM/Maven/Python
-- Allows for private & public hosted repositories.
+- @size[32px](Fully Managed Artifact repository service.)
+- @size[32px](Supports multiple repository types, e.g NPM/Maven/Python.)
+- @size[32px](Allows for private & public hosted repositories.)
 @ulend
 Note:
 - Artifact Storage for applications
@@ -103,10 +103,10 @@ Note:
 
 ### AWS CodeBuild
 @ul
-- Managed CI service for building & testing.
-- Build steps are run in containers managed by AWS.
-- Execution steps defined via the Buildspec.yaml file.
-- Can create reports and store them alongside builds.
+- @size[32px](Managed CI service for building & testing.)
+- @size[32px](Build steps are run in containers managed by AWS.)
+- @size[32px](Execution steps defined via the Buildspec.yaml file.)
+- @size[32px](Can store build & test reports for display.)
 @ulend
 +++?code=devops-on-aws/buildspec.yml&lang=YAML
 
@@ -123,9 +123,9 @@ Note:
 
 ### AWS CodeDeploy
 @ul
-- CD Service.
-- Capable of deploying to ECS, Lambda, EC2 and on-premise machines.
-- Deployment steps defined via the Appspec.yaml file.
+- @size[32px](AWS deployment service.)
+- @size[32px](Capable of deploying to ECS, Lambda, EC2 and on-premise machines.)
+- @size[32px](Deployment steps defined via the Appspec.yaml file.)
 @ulend
 Note:
 - 1. Make EC2
@@ -145,9 +145,9 @@ Note:
 
 ### AWS CodePipeline
 @ul
-- AWS continuous delivery service
-- Model and visualise deployment steps into pipelines.
-- Enable automatic
+- @size[32px](AWS continuous delivery service.)
+- @size[32px](Model and visualise deployment steps into pipelines.)
+- @size[32px](Supports automatic pipeline triggers.)
 @ulend
 +++
 
