@@ -7,27 +7,33 @@
 - @size[32px](Implementing DevOps on AWS)
 ---
 
-### DevOps
+### What is DevOps?
 -  @size[32px](Combination of practices and tools, enabling an organisation to deliver applications and services at high velocity.)
 -  @size[32px](The ability to more comfortably and quickly deploy software and infrastructure resources than traditional practices.)
 +++
 
 ### Why use DevOps?
 @ul
-- @size[32px](Remaining competitive. - rapidly changing environment, companies are releasing faster then before.)
-- @size[32px](Evolving security & performance requirements. - Things change quickly, its important to be able to remain on top of application requirements)
-- @size[32px](Maintain stability, increase velocity. - Enables higher reliability on processes and stability, whilst shortening your release cycles.)
+- @size[32px](Remaining competitive. )
+- @size[32px](Evolving security & performance requirements. )
+- @size[32px](Maintain stability, increase velocity. )
 @ulend
+Note:
+- 1. Rapidly changing environment, companies are releasing faster then before.
+- 2. Things change quickly, its important to be able to remain on top of application requirements
+- 3. Enables higher reliability on processes and stability, whilst shortening your release cycles.
 +++
 
-### Small slide on CI/CD? Intro to new section?
+###  How do you do DevOps?
+- DevOps isn't done by one person.
+- 
 +++
 
 ### Continous Integration (CI)
 @ul
 - @size[32px](Practice of regular building, testing and validation of code.)
-- @size[32px](Enables developers to build one to many times a day, pushing out and testing changes as they are finished.)
-- @size[32px](The key goals of CI are to find bugs, improve software quality and reduce the turn around time of new software updates.)
+- @size[32px](Enable & encourage developers to build one to many times a day, pushing out and testing changes as they are finished.)
+- @size[32px](Key goals: find bugs, improve software quality and reduce the turn around time of new software updates.)
 @ulend
 +++
 
@@ -39,6 +45,9 @@
 - @size[32px](Continous Delivery not Continous Deployment.)
 @ulend
 ---
+
+### CI/CD
+![Source: https://blog.gds-gov.tech/that-ci-cd-thing-principles-implementation-tools-aa8e77f9a350 ](devops-on-aws/devops.png)
 
 ### AWS DevOps Services
 ![AWS-DevOps-Services](devops-on-aws/aws-devops-services.jpg)
