@@ -122,16 +122,13 @@ Note:
 ---
 
 ### Demo
-Show App Running
-Build
-Test - Store artifact into build?
-Deploy
+Lets see it in action
 ---
 
 ### Recap
-- @size[32px]()
-- @size[32px]()
-- @size[32px]()
+- @size[32px](DevOps / Continous Integration / Continous Delivery)
+- @size[32px](AWS DevOps Services)
+- @size[32px](Implementing DevOps on AWS)
 ---
 # Questions?
 
