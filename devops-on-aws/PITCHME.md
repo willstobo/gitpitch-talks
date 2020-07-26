@@ -8,15 +8,15 @@
 ---
 
 ### DevOps
-- Combination of practices and tools, enabling an organisation to deliver applications and services at high velocity.
-- The ability to more comfortably and quickly deploy software and infrastructure resources than traditional practices
+-  @size[32px](Combination of practices and tools, enabling an organisation to deliver applications and services at high velocity.)
+-  @size[32px](The ability to more comfortably and quickly deploy software and infrastructure resources than traditional practices.)
 +++
 
 ### Why use DevOps?
 @ul
-- Remaining competitive. - rapidly changing environment, companies are releasing faster then before.
-- Evolving security & performance requirements. - Things change quickly, its important to be able to remain on top of application requirements
-- Maintain stability, increase velocity. - Enables higher reliability on processes and stability, whilst shortening your release cycles.
+-  @size[32px](Remaining competitive. - rapidly changing environment, companies are releasing faster then before.)
+-  @size[32px](Evolving security & performance requirements. - Things change quickly, its important to be able to remain on top of application requirements)
+-  @size[32px](Maintain stability, increase velocity. - Enables higher reliability on processes and stability, whilst shortening your release cycles.)
 @ulend
 +++
 
