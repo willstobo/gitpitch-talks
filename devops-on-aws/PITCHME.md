@@ -79,13 +79,18 @@ Note:
 +++
 
 ### AWS CodeCommit
+@ul
 - Fully Managed secure Git based source control service.
 - Comprehensive access management provided via IAM
+@ulend
 +++
 
 ### AWS CodeArtifact
+@ul
 - Fully Managed Artifact repository service
 - Supports multiple repository types, e.g NPM/Maven/Python
+- Allows for private & public hosted repositories.
+@ulend
 Note:
 - Artifact Storage for applications
 - Repos are placed in domains, IAM permissoins can be applied at the domain level.
@@ -97,27 +102,34 @@ Note:
 +++
 
 ### AWS CodeBuild
-Build steps are run in containers managed by AWS.
-Buildspec yaml is used to define the build task, can be sourced in by an S3 bucket or be located alongside the sourcecode
-Can create reports and store them in builds.
-
+@ul
+- Managed CI service for building & testing.
+- Build steps are run in containers managed by AWS.
+- Execution steps defined via the Buildspec.yaml file.
+- Can create reports and store them alongside builds.
+@ulend
 +++?code=devops-on-aws/buildspec.yml&lang=YAML&title=Build Spec
 +++
 
 ### AWS CodeDeploy
-AWS CD Service 
-Capable of deploying to ECS, Lambda & EC2 (Including on-premise machines)
-
-1. Make EC2
-2. Setup Deployment Group
-3. Define deployment steps?
+@ul
+- CD Service.
+- Capable of deploying to ECS, Lambda & EC2 (Including on-premise machines).
+- Deployment steps defined via the Appspec.yaml file.
+@ulend
+Note:
+- 1. Make EC2
+- 2. Setup Deployment Group
+- 3. Define deployment steps?
 
 +++?code=devops-on-aws/appspec.yml&lang=YAML&title=App Spec
 +++
 
 ### AWS CodePipeline
+@ul
 - AWS continuous delivery service
 - Model, visualise and automate deployment steps into pipelines.
+@ulend
 +++
 
 ### CodePipeline Example
@@ -130,7 +142,7 @@ Note:
 ---
 
 ### Demo
-Lets see it in action
+Lets see it all in action!
 ---
 
 ### Recap
