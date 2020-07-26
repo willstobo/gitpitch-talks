@@ -111,7 +111,7 @@ Note:
 +++?code=devops-on-aws/buildspec.yml&lang=YAML
 
 @snap[north span-100]
-Buildspec.yaml                         
+### Buildspec.yaml                         
 @snapend
 
 @snap[south]
@@ -136,7 +136,7 @@ Note:
 +++?code=devops-on-aws/appspec.yml&lang=YAML
 
 @snap[north span-100]
-Appspec.yaml                         
+### Appspec.yaml                         
 @snapend
 
 @snap[south span-100]
