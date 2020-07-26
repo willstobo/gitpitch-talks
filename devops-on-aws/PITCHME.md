@@ -44,10 +44,11 @@ Note:
 - @size[32px](Can be fully automated, or partially automated with manual gates for critical steps.)
 - @size[32px](Continous Delivery not Continous Deployment.)
 @ulend
----
++++
 
-### CI/CD
+### CI    |    CD
 ![Source: https://blog.gds-gov.tech/that-ci-cd-thing-principles-implementation-tools-aa8e77f9a350 ](devops-on-aws/devops.png)
+---
 
 ### AWS DevOps Services
 ![AWS-DevOps-Services](devops-on-aws/aws-devops-services.jpg)
