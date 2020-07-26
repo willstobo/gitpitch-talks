@@ -55,9 +55,9 @@ Note:
 
 ### CI / CD
 ![Source: https://blog.gds-gov.tech/that-ci-cd-thing-principles-implementation-tools-aa8e77f9a350 ](devops-on-aws/devops.png)
-@ul
-- @size[32px](DevOps never stops!)
-@ulend
+@snap[south span-100]
+DevOps never stops!                         
+@snapend
 ---
 
 ### AWS DevOps Services
@@ -84,9 +84,8 @@ Note:
 - @size[32px](Comprehensive access management provided via IAM.)
 @ulend
 +++
-@snap[north-west span-50]
+
 ### AWS CodeArtifact
-@snapend
 @ul
 - @size[32px](Fully Managed Artifact repository service.)
 - @size[32px](Supports multiple repository types, e.g NPM/Maven/Python.)
@@ -101,9 +100,8 @@ Note:
 - 2. npm set scope to codeartifactory repo
 - 3. use npm publish with scope
 +++
-@snap[north-west span-50]
+
 ### AWS CodeBuild
-@snapend
 @ul
 - @size[32px](Managed CI service for building & testing.)
 - @size[32px](Build steps are run in containers managed by AWS.)
