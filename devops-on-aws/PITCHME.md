@@ -110,11 +110,11 @@ Note:
 @ulend
 +++?code=devops-on-aws/buildspec.yml&lang=YAML
 
-@snap[northt span-100 text-06]
+@snap[north span-100 text-06]
 Buildspec.yaml                         
 @snapend
 
-@snap[south span-100]
+@snap[south]
 @[4-12](Installation Steps)
 @[13-24](Build & Post Build Steps)
 @[26-30](Defining Reporting Artifacts)
