@@ -79,21 +79,21 @@ Note:
 +++
 
 ### AWS CodeCommit
-Fully Managed Git based source control service.
-Access management provided via IAM
+- Fully Managed secure Git based source control service.
+- Comprehensive access management provided via IAM
 +++
 
 ### AWS CodeArtifact
-Fully Managed Artifact repository service
-Supports Node, Maven, etc etc repositories
-
-Artifact Storage for applications
-Repos are placed in domains, IAM permissoins can be applied at the domain level.
-Can add NPM repo into CodeArtifact, can then download from NPM Repo in CodeBuild
-Publish NodeJs app
-1. Login to code artifact repo
-2. npm set scope to codeartifactory repo
-3. use npm publish with scope
+- Fully Managed Artifact repository service
+- Supports multiple repository types, e.g NPM/Maven/Python
+Note:
+- Artifact Storage for applications
+- Repos are placed in domains, IAM permissoins can be applied at the domain level.
+- Can add NPM repo into CodeArtifact, can then download from NPM Repo in CodeBuild
+- Publish NodeJs app
+- 1. Login to code artifact repo
+- 2. npm set scope to codeartifactory repo
+- 3. use npm publish with scope
 +++
 
 ### AWS CodeBuild
