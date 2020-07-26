@@ -7,10 +7,7 @@
 - @size[32px](Implementing DevOps on AWS)
 ---
 
-### Small slide on DevOps? Intro to new section?
-+++
-
-### What is DevOps?
+### DevOps
 - Combination of practices and tools, enabling an organisation to deliver applications and services at high velocity.
 - The ability to more comfortably and quickly deploy software and infrastructure resources than traditional practices
 +++
@@ -93,8 +90,8 @@ Capable of deploying to ECS, Lambda & EC2 (Including on-premise machines)
 +++
 
 ### AWS CodePipeline
-AWS continuous delivery service
-Model, visualise and automate deployment steps into pipelines.
+- AWS continuous delivery service
+- Model, visualise and automate deployment steps into pipelines.
 +++
 
 ### CodePipeline Example
@@ -111,13 +108,6 @@ Show App Running
 Build
 Test - Store artifact into build?
 Deploy
----
-
-### IaC
-Ability to define infrastructure resources as code.
-Can provide the code to a services that will automatically provision these assets.
-Allows for consistently defined resources with instant provisioning.
-- show how pipelines in aws can be setup via code.
 ---
 
 ### Recap
