@@ -55,9 +55,9 @@ Note:
 
 ### CI / CD
 ![Source: https://blog.gds-gov.tech/that-ci-cd-thing-principles-implementation-tools-aa8e77f9a350 ](devops-on-aws/devops.png)
-@snap[south span-100]
-DevOps never stops!                         
-@snapend
+@ul
+- @size[32px](DevOps never stops!)
+@ulend
 ---
 
 ### AWS DevOps Services
