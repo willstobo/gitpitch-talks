@@ -26,9 +26,9 @@ Note:
 
 ###  How do you do DevOps?
 @ul
-- - @size[32px](DevOps isn't one persons job.)
-- - @size[32px](Large variety of DevOps tools can be used.)
-- - @size[32px](Implemented via modern software development practices)
+- @size[32px](DevOps isn't one persons job.)
+- @size[32px](Large variety of DevOps tools can be used.)
+- @size[32px](Implemented via modern software development practices)
 @ulend
 Note:
 - 1. Encourage the entire team to adopt the DevOps culture. Encourage the devs to build frequently. Encourage the testers to build out automation suites and to run them frequently.
@@ -55,6 +55,9 @@ Note:
 
 ### CI / CD
 ![Source: https://blog.gds-gov.tech/that-ci-cd-thing-principles-implementation-tools-aa8e77f9a350 ](devops-on-aws/devops.png)
+@ul
+- @size[32px](DevOps never stops!)
+@ulend
 ---
 
 ### AWS DevOps Services
