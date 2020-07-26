@@ -25,8 +25,10 @@ Note:
 +++
 
 ###  How do you do DevOps?
-- DevOps isn't done by one person.
-- 
+@ul
+- DevOps isn't one persons job.
+- Implemented via modern software development practices
+@ulend
 +++
 
 ### Continous Integration (CI)
@@ -54,13 +56,18 @@ Note:
 ![AWS-DevOps-Services](devops-on-aws/aws-devops-services.jpg)
 
 @ul
-- CodeCommit - Fully Managed Git based source control service.
-- CodeArtifact - Fully Managed Artifact repository service
-- CodeBuild - Managed CI Service for Build / Testing
-- CodeDeploy - Deployment Service
-- CodePipeline - CD Service
+-  @size[32px](CodeCommit)
+-  @size[32px](CodeBuild)
+-  @size[32px](CodeDeploy)
+-  @size[32px](CodePipeline)
+-  @size[32px](CodeArtifact)
 @ulend
-
+Note:
+- 1. Fully Managed Git based source control service.
+- 2. Managed CI Service for Build / Testing
+- 3. Deployment Service
+- 4. CD Service
+- 5. Fully Managed Artifact repository service
 +++
 
 ### AWS CodeCommit
