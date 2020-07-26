@@ -22,14 +22,16 @@ phases:
       - echo Entered the post_build phase...
       - echo Build completed on `date`.
       - zip -r zap-spotify.zip build/ api/
-      - ls -la
-      - #aws s3 cp zap-spotify.zip s3://zap-spotify-resource-bucket/zap-spotify.zip
-      - #pip3 install awscli --upgrade --user
-      - #aws codeartifact login --tool npm --repository zap-spotify-build --domain stobo-industries --domain-owner 064156228657
-      - #npm publish
+
+reports: 
+  CypressReports:
+    files: 
+      - 'cypress/*'
+      - 'test-results.xml'
 
 artifacts:
   files:
     - zap-spotify.zip
     - appspec.yml
     - deployment.sh
+    

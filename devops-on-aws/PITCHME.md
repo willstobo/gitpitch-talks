@@ -108,7 +108,18 @@ Note:
 - Execution steps defined via the Buildspec.yaml file.
 - Can create reports and store them alongside builds.
 @ulend
-+++?code=devops-on-aws/buildspec.yml&lang=YAML&title=Build Spec
++++?code=devops-on-aws/buildspec.yml&lang=YAML
+
+@snap[north-east span-100 text-06 text-gray]
+Buildspec.yaml                         
+@snapend
+
+@snap[south span-100]
+@[4-12](Installation Steps)
+@[13-24](Build & Post Build Steps)
+@[26-30](Defining Reporting Artifacts)
+@[32-36](Defining Output Artifacts)
+@snapend
 +++
 
 ### AWS CodeDeploy
@@ -122,13 +133,24 @@ Note:
 - 2. Setup Deployment Group
 - 3. Define deployment steps?
 
-+++?code=devops-on-aws/appspec.yml&lang=YAML&title=App Spec
++++?code=devops-on-aws/appspec.yml&lang=YAML
+
+@snap[north-east span-100 text-06 text-gray]
+Appspec.yaml                         
+@snapend
+
+@snap[south span-100]
+@[3-5](Determine Artifact output location.)
+@[6-8](Define deployment scripts to be executed.)
+@snapend
+
 +++
 
 ### AWS CodePipeline
 @ul
 - AWS continuous delivery service
-- Model, visualise and automate deployment steps into pipelines.
+- Model and visualise deployment steps into pipelines.
+- Enable automatic
 @ulend
 +++
 
