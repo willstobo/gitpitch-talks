@@ -16,7 +16,7 @@ phases:
       - echo Build started on `date`
       - npm run build
     finally:
-      - echo This always runs even if the install command fails
+      - echo This always runs even if the build command fails
   post_build:
     commands:
       - echo Entered the post_build phase...
