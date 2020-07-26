@@ -14,9 +14,9 @@
 
 ### Why use DevOps?
 @ul
--  @size[32px](Remaining competitive. - rapidly changing environment, companies are releasing faster then before.)
--  @size[32px](Evolving security & performance requirements. - Things change quickly, its important to be able to remain on top of application requirements)
--  @size[32px](Maintain stability, increase velocity. - Enables higher reliability on processes and stability, whilst shortening your release cycles.)
+- @size[32px](Remaining competitive. - rapidly changing environment, companies are releasing faster then before.)
+- @size[32px](Evolving security & performance requirements. - Things change quickly, its important to be able to remain on top of application requirements)
+- @size[32px](Maintain stability, increase velocity. - Enables higher reliability on processes and stability, whilst shortening your release cycles.)
 @ulend
 +++
 
@@ -25,17 +25,18 @@
 
 ### Continous Integration (CI)
 @ul
-- Practice of regular building, testing and validation of code.
-- Enables developers to build one to many times a day, pushing out and testing changes as they are finished.
-- The key goals of CI are to find bugs, improve software quality and reduce the turn around time of new software updates.
+- @size[32px](Practice of regular building, testing and validation of code.)
+- @size[32px](Enables developers to build one to many times a day, pushing out and testing changes as they are finished.)
+- @size[32px](The key goals of CI are to find bugs, improve software quality and reduce the turn around time of new software updates.)
 @ulend
 +++
 
 ### Continous Delivery (CD)
 @ul
-- Practice of automatically building, testing and preparing code for production releases.
-- Expands upon CI by deploying all changes to a testing environment.
-- Can be fully automated, or partially automated with manual gates for critical steps.
+- @size[32px](Practice of automatically building, testing and preparing code for production releases.)
+- @size[32px](Expands upon CI by deploying all changes to a testing environment.)
+- @size[32px](Can be fully automated, or partially automated with manual gates for critical steps.)
+- @size[32px](Continous Delivery not Continous Deployment.)
 @ulend
 ---
 
