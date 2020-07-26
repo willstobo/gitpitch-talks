@@ -110,7 +110,7 @@ Note:
 @ulend
 +++?code=devops-on-aws/buildspec.yml&lang=YAML
 
-@snap[north span-100 text-03]
+@snap[north span-100 text-10]
 Buildspec.yaml                         
 @snapend
 
