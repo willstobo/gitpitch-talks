@@ -46,7 +46,7 @@ Note:
 @ulend
 +++
 
-### CI    |    CD
+### CI / CD
 ![Source: https://blog.gds-gov.tech/that-ci-cd-thing-principles-implementation-tools-aa8e77f9a350 ](devops-on-aws/devops.png)
 ---
 
