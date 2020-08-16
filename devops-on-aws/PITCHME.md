@@ -123,11 +123,13 @@ Note:
 @snapend
 +++
 
-### AWS CodeDeploy            
+@snap[north-west span-50]
+### AWS CodeDeploy
+@snapend     
 @snap[north-east span-50]
 ![width=150px](devops-on-aws/aws-codedeploy.png)
 @snapend
-@snap[midpoint]
+@snap[midpoint span-50]
 @ul
 - @size[32px](AWS deployment service.)
 - @size[32px](Capable of deploying to ECS, Lambda, EC2 and on-premise machines.)
