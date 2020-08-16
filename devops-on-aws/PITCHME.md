@@ -125,7 +125,7 @@ Note:
 
     
 
-@snap[south]
+@snap[south span-100]
 ## AWS CodeDeploy
 @ul
 - @size[32px](AWS deployment service.)
@@ -133,7 +133,7 @@ Note:
 - @size[32px](Deployment steps defined via the Appspec.yaml file.)
 @ulend
 @snapend
-@snap[north-east span-40]
+@snap[north-east span-100]
 ![width=150px](devops-on-aws/aws-codedeploy.png)
 @snapend
 Note:
