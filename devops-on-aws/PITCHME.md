@@ -129,7 +129,7 @@ Note:
 - @size[32px](Capable of deploying to ECS, Lambda, EC2 and on-premise machines.)
 - @size[32px](Deployment steps defined via the Appspec.yaml file.)
 @ulend
-@snap[north-east span-100]
+@snap[east]
 ![width=150px](devops-on-aws/aws-codedeploy.png)
 @snapend
 Note:
