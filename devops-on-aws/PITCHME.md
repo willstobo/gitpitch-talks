@@ -124,7 +124,7 @@ Note:
 +++
 
 @snap[north-west span-60]
-## AWS CodeDeploy
+# AWS CodeDeploy
 @snapend     
 @snap[north-east span-40]
 ![width=150px](devops-on-aws/aws-codedeploy.png)
