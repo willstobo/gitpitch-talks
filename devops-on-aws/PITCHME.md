@@ -131,11 +131,13 @@ Note:
 ![width=150px](devops-on-aws/aws-codedeploy.png)
 @snapend
 @snap[midpoint span-100]
+@box[bg-green](
 @ul
 - @size[32px](AWS deployment service.)
 - @size[32px](Capable of deploying to ECS, Lambda, EC2 and on-premise machines.)
 - @size[32px](Deployment steps defined via the Appspec.yaml file.)
 @ulend
+)
 @snapend
 
 Note:
