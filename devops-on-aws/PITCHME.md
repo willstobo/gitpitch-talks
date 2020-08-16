@@ -1,5 +1,7 @@
 [comment]: <> (https://gitpitch.com/willstobo/gitpitch-talks/master?p=devops-on-aws)
-## Enabling DevOps with Amazon Web Services
+## Enabling DevOps 
+## with 
+## Amazon Web Services
 ---
 ### Key takeaways
 - @size[32px](DevOps / Continous Integration / Continous Delivery)
