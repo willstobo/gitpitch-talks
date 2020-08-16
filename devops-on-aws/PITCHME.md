@@ -125,7 +125,7 @@ Note:
 @snap[north-west span-70]
 # AWS CodeDeploy
 @snapend
-@snap[midpoint span-70]
+@snap[midpoint span-100]
 @ul
 - @size[32px](AWS deployment service.)
 - @size[32px](Capable of deploying to ECS, Lambda, EC2 and on-premise machines.)
