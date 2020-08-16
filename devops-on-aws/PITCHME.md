@@ -61,8 +61,6 @@ Note:
 ---
 
 ### AWS DevOps Services
-![AWS-DevOps-Services](devops-on-aws/aws-devops-services.jpg)
-
 @ul
 -  @size[32px](CodeCommit)
 -  @size[32px](CodeArtifact)
@@ -72,10 +70,10 @@ Note:
 @ulend
 Note:
 - 1. Fully Managed Git based source control service.
-- 2. Managed CI Service for Build / Testing
-- 3. Deployment Service
-- 4. CD Service
-- 5. Fully Managed Artifact repository service
+- 2. Fully Managed Artifact repository service
+- 3. Managed CI Service for Build / Testing
+- 4. Deployment Service
+- 5. CD Service
 +++
 
 ### AWS CodeCommit
