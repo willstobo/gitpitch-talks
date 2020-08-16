@@ -10,8 +10,10 @@
 ---
 
 ### What is DevOps?
+@ul
 -  @size[32px](Combination of practices and tools, enabling an organisation to deliver applications and services at high velocity.)
 -  @size[32px](The ability to more comfortably and quickly deploy software and infrastructure resources than traditional practices.)
+@ulend
 +++
 
 ### Why use DevOps?
