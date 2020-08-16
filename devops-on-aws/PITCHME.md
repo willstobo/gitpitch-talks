@@ -65,7 +65,7 @@ Note:
 ---
 
 ### AWS DevOps Services
-![AWS DevOps Services](devops-on-aws/aws-devops-services2.jpg)
+![AWS DevOps Services](devops-on-aws/aws-devops-services.jpg)
 Note:
 - 1. Fully Managed Git based source control service.
 - 2. Fully Managed Artifact repository service
