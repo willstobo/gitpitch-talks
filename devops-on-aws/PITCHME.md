@@ -1,5 +1,5 @@
 [comment]: <> (https://gitpitch.com/willstobo/gitpitch-talks/master?p=devops-on-aws)
-## DevOps on AWS
+## Enabling DevOps with Amazon Web Services
 ---
 ### Key takeaways
 - @size[32px](DevOps / Continous Integration / Continous Delivery)
@@ -79,6 +79,7 @@ Note:
 +++
 
 ### AWS CodeCommit
+![AWS-DevOps-Services](devops-on-aws/aws-codecommit.png)
 @ul
 - @size[32px](Fully Managed secure Git based source control service.)
 - @size[32px](Comprehensive access management provided via IAM.)
@@ -102,6 +103,7 @@ Note:
 +++
 
 ### AWS CodeBuild
+![AWS-DevOps-Services](devops-on-aws/aws-codebuild.png)
 @ul
 - @size[32px](Managed CI service for building & testing.)
 - @size[32px](Build steps are run in containers managed by AWS.)
@@ -122,6 +124,7 @@ Note:
 +++
 
 ### AWS CodeDeploy
+![AWS-DevOps-Services](devops-on-aws/aws-codedeploy.png)
 @ul
 - @size[32px](AWS deployment service.)
 - @size[32px](Capable of deploying to ECS, Lambda, EC2 and on-premise machines.)
@@ -144,6 +147,7 @@ Note:
 +++
 
 ### AWS CodePipeline
+![AWS-DevOps-Services](devops-on-aws/aws-codepipeline.png)
 @ul
 - @size[32px](AWS continuous delivery service.)
 - @size[32px](Model and visualise deployment steps into pipelines.)
@@ -189,3 +193,18 @@ Note:
 -     Pipeline Samples? Buildspec?
 -     IaC for pipeline setup?
 - Questions
+
+Note:
+Title: Enabling DevOps with Amazon Web Services.
+
+With so many ways to implement 'DevOps', where do you actually start?
+
+Companies are going to market faster and more robustly with DevOps.
+
+In this talk we take a look at some modern DevOps practices, the benefits that DevOps can provide and how easily they can be implemented with Amazon Web Services.
+
+A basic knowledge of Cloud Services is recommended, but not required.
+
+
+- the DevOps services provided by AWS and the benefits of adopting the DevOps model.
+- Then putting it all together to show how easily a CI/CD pipeline can be setup on AWS, using the native DevOps services.
