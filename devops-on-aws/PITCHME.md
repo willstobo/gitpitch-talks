@@ -122,15 +122,17 @@ Note:
 @[32-36](Defining Output Artifacts)
 @snapend
 +++
-@snap[midpoint span-70]
+@snap[north span-70]
 ## AWS CodeDeploy
+@snapend
+@snap[midpoint span-70]
 @ul
 - @size[32px](AWS deployment service.)
 - @size[32px](Capable of deploying to ECS, Lambda, EC2 and on-premise machines.)
 - @size[32px](Deployment steps defined via the Appspec.yaml file.)
 @ulend
 @snapend
-@snap[east span-30]
+@snap[north-east span-30]
 ![width=150px](devops-on-aws/aws-codedeploy.png)
 @snapend
 Note:
