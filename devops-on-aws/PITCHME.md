@@ -103,7 +103,7 @@ Note:
 +++
 
 ### AWS CodeBuild
-![width=250, height=250](devops-on-aws/aws-codebuild.png)
+![width=150px](devops-on-aws/aws-codebuild.png)
 @ul
 - @size[32px](Managed CI service for building & testing.)
 - @size[32px](Build steps are run in containers managed by AWS.)
@@ -129,13 +129,11 @@ Note:
 @snap[north-east span-50]
 ![width=150px](devops-on-aws/aws-codedeploy.png)
 @snapend
-@snap[midpoint span-50]
 @ul
 - @size[32px](AWS deployment service.)
 - @size[32px](Capable of deploying to ECS, Lambda, EC2 and on-premise machines.)
 - @size[32px](Deployment steps defined via the Appspec.yaml file.)
 @ulend
-@snapend
 Note:
 - 1. Make EC2
 - 2. Setup Deployment Group
@@ -153,7 +151,7 @@ Note:
 +++
 
 ### AWS CodePipeline
-![width=250, height=250](devops-on-aws/aws-codepipeline.png)
+![width=150px](devops-on-aws/aws-codepipeline.png)
 @ul
 - @size[32px](AWS continuous delivery service.)
 - @size[32px](Model and visualise deployment steps into pipelines.)
@@ -162,7 +160,7 @@ Note:
 +++
 
 ### CodePipeline Example
-![width=250, height=250](devops-on-aws/codepipeline.jpg)
+![width=150px](devops-on-aws/codepipeline.jpg)
 Note:
 - Maybe Demo, show pipeline, start pipeline then...
 - Show Diagram of what pipelines are doing in the background
@@ -201,16 +199,8 @@ Note:
 - Questions
 
 Note:
-Title: Enabling DevOps with Amazon Web Services.
-
-With so many ways to implement 'DevOps', where do you actually start?
-
-Companies are going to market faster and more robustly with DevOps.
-
-In this talk we take a look at some modern DevOps practices, the benefits that DevOps can provide and how easily they can be implemented with Amazon Web Services.
-
-A basic knowledge of Cloud Services is recommended, but not required.
-
-
-- the DevOps services provided by AWS and the benefits of adopting the DevOps model.
-- Then putting it all together to show how easily a CI/CD pipeline can be setup on AWS, using the native DevOps services.
+- Title: Enabling DevOps with Amazon Web Services.
+- With so many ways to implement 'DevOps', where do you actually start?
+- Companies are going to market faster and more robustly with DevOps.
+- In this talk we take a look at some modern DevOps practices, the benefits that DevOps can provide and how easily they can be implemented with Amazon Web Services.
+- A basic knowledge of Cloud Services is recommended, but not required.
