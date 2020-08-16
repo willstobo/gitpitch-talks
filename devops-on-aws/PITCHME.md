@@ -103,7 +103,7 @@ Note:
 +++
 
 ### AWS CodeBuild
-![AWS-DevOps-Services](devops-on-aws/aws-codebuild.png)
+![width=250, height=250](devops-on-aws/aws-codebuild.png)
 @ul
 - @size[32px](Managed CI service for building & testing.)
 - @size[32px](Build steps are run in containers managed by AWS.)
@@ -124,7 +124,7 @@ Note:
 +++
 
 ### AWS CodeDeploy
-![AWS-DevOps-Services](devops-on-aws/aws-codedeploy.png)
+![width=250, height=250](devops-on-aws/aws-codedeploy.png)
 @ul
 - @size[32px](AWS deployment service.)
 - @size[32px](Capable of deploying to ECS, Lambda, EC2 and on-premise machines.)
@@ -147,7 +147,7 @@ Note:
 +++
 
 ### AWS CodePipeline
-![AWS-DevOps-Services](devops-on-aws/aws-codepipeline.png)
+![width=250, height=250](devops-on-aws/aws-codepipeline.png)
 @ul
 - @size[32px](AWS continuous delivery service.)
 - @size[32px](Model and visualise deployment steps into pipelines.)
@@ -156,7 +156,7 @@ Note:
 +++
 
 ### CodePipeline Example
-![AWS-DevOps-Services](devops-on-aws/codepipeline.jpg)
+![width=250, height=250](devops-on-aws/codepipeline.jpg)
 Note:
 - Maybe Demo, show pipeline, start pipeline then...
 - Show Diagram of what pipelines are doing in the background
