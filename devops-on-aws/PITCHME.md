@@ -125,7 +125,7 @@ Note:
 
     
 
-@snap[midpoint]
+@snap[south]
 ## AWS CodeDeploy
 @ul
 - @size[32px](AWS deployment service.)
