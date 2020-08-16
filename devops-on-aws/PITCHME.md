@@ -117,10 +117,10 @@ Note:
 ### Buildspec.yaml                         
 @snapend
 @snap[north-east span-50]
-@[4-12](Installation Steps)
-@[13-24](Build & Post Build Steps)
-@[26-30](Defining Reporting Artifacts)
-@[32-36](Defining Output Artifacts)
+@[4-12](&nbsp; Installation Steps)
+@[13-24](&nbsp; Build & Post Build Steps)
+@[26-30](&nbsp; Defining Reporting Artifacts)
+@[32-36](&nbsp; Defining Output Artifacts)
 @snapend
 +++
 
