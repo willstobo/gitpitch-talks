@@ -123,7 +123,7 @@ Note:
 @snapend
 +++
 
-@snap[north-west span-40]
+@snap[north-west span-60]
 ## AWS CodeDeploy
 @snapend     
 @snap[north-east span-40]
