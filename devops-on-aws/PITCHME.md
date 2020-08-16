@@ -65,10 +65,10 @@ Note:
 
 @ul
 -  @size[32px](CodeCommit)
+-  @size[32px](CodeArtifact)
 -  @size[32px](CodeBuild)
 -  @size[32px](CodeDeploy)
 -  @size[32px](CodePipeline)
--  @size[32px](CodeArtifact)
 @ulend
 Note:
 - 1. Fully Managed Git based source control service.
@@ -158,7 +158,7 @@ Note:
 +++
 
 ### CodePipeline Example
-![width=150px](devops-on-aws/codepipeline.jpg)
+![AWS Pipeline](devops-on-aws/codepipeline.jpg)
 Note:
 - Maybe Demo, show pipeline, start pipeline then...
 - Show Diagram of what pipelines are doing in the background
