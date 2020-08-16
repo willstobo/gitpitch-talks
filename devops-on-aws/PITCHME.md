@@ -79,7 +79,7 @@ Note:
 +++
 
 ### AWS CodeCommit
-![AWS-DevOps-Services](devops-on-aws/aws-codecommit.png)
+![width=150px](devops-on-aws/aws-codecommit.png)
 @ul
 - @size[32px](Fully Managed secure Git based source control service.)
 - @size[32px](Comprehensive access management provided via IAM.)
@@ -87,6 +87,7 @@ Note:
 +++
 
 ### AWS CodeArtifact
+![width=150px](devops-on-aws/aws-codeart-sub.png)
 @ul
 - @size[32px](Fully Managed Artifact repository service.)
 - @size[32px](Supports multiple repository types, e.g NPM/Maven/Python.)
@@ -122,21 +123,14 @@ Note:
 @[32-36](Defining Output Artifacts)
 @snapend
 +++
-@snap[north span-80]
-&nbsp;
+
 ## AWS CodeDeploy 
-@snapend
-@snap[north-west span-20 text-center]
-&nbsp;
-![width=150px](devops-on-aws/aws-codedeploy.png)
-@snapend
-@snap[midpoint span-100]
+![width=150px](devops-on-aws/aws-codedeploy.png)]
 @ul[list-fade-fragments]
 - @size[32px](AWS deployment service.)
 - @size[32px](Capable of deploying to ECS, Lambda, EC2 and on-premise machines.)
 - @size[32px](Deployment steps defined via the Appspec.yaml file.)
 @ulend
-@snapend
 
 Note:
 - 1. Make EC2
