@@ -122,7 +122,7 @@ Note:
 @[32-36](Defining Output Artifacts)
 @snapend
 +++
-@snap[span-70]
+@snap[midpoint span-70]
 ## AWS CodeDeploy
 @ul
 - @size[32px](AWS deployment service.)
