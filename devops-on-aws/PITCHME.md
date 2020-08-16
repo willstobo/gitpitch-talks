@@ -122,11 +122,11 @@ Note:
 @[32-36](Defining Output Artifacts)
 @snapend
 +++
-@snap[north-west span-90]
+@snap[north-west span-80]
 &nbsp;
 ## AWS CodeDeploy
 @snapend
-@snap[north span-10]
+@snap[north span-20]
 &nbsp;
 ![width=150px](devops-on-aws/aws-codedeploy.png)
 @snapend
