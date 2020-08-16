@@ -123,17 +123,18 @@ Note:
 @snapend
 +++
 
-@snap[north span-60]
-### AWS CodeDeploy
-@snapend     
+    
 @snap[north-east span-40]
 ![width=150px](devops-on-aws/aws-codedeploy.png)
 @snapend
+@snap[midpoint span-60]
+## AWS CodeDeploy
 @ul
 - @size[32px](AWS deployment service.)
 - @size[32px](Capable of deploying to ECS, Lambda, EC2 and on-premise machines.)
 - @size[32px](Deployment steps defined via the Appspec.yaml file.)
 @ulend
+@snapend 
 Note:
 - 1. Make EC2
 - 2. Setup Deployment Group
