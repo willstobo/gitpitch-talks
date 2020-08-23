@@ -18,8 +18,8 @@
 
 ### Why use DevOps?
 @ul
-- @size[32px](Remaining competitive. )
-- @size[32px](Evolving security & performance requirements. )
+- @size[32px](To remain competitive. )
+- @size[32px](Managing evolving security & performance requirements. )
 - @size[32px](Maintain stability, increase velocity. )
 @ulend
 Note:
@@ -156,10 +156,10 @@ Note:
 ### CodePipeline Example
 ![AWS Pipeline](devops-on-aws/codepipeline.jpg)
 Note:
-- Maybe Demo, show pipeline, start pipeline then...
-- Show Diagram of what pipelines are doing in the background
-- Show pipeline results
-- Have already green pipeline as a backup for live failure
+- Show Pipeline
+- Show App
+- Show pipeline in progress, cover codebuild/codedeploy
+- Show changed app.
 ---
 
 ### Demo
@@ -172,29 +172,3 @@ Lets see it all in action!
 - @size[32px](Implementing DevOps on AWS)
 ---
 # Questions?
-
-Note:
-- What flow of presentation makes sense?
-- Intro
-- Quick intro to CI/CD/Devops and its benefits?
-- Then onto AWS DevOps services
--     How we can use AWS to easily enable CI/CD practices
--     AWS DevOps suite is available
--     Quick overviews of available services.
-- Quick show of services in console, kick off pipeline.
-- Diagram of how services link together?
--     Same as what will be displayed in the demo
--     Try show it is easy to use & setup.
-- Back to demo for result.
-- Show how its implemented in AWS using the services, make it look easy
--     Live Demo? 
--     Pipeline Samples? Buildspec?
--     IaC for pipeline setup?
-- Questions
-
-Note:
-- Title: Enabling DevOps with Amazon Web Services.
-- With so many ways to implement 'DevOps', where do you actually start?
-- Companies are going to market faster and more robustly with DevOps.
-- In this talk we take a look at some modern DevOps practices, the benefits that DevOps can provide and how easily they can be implemented with Amazon Web Services.
-- A basic knowledge of Cloud Services is recommended, but not required.
