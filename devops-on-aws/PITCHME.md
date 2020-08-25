@@ -142,7 +142,10 @@ Note:
 @snapend
 @snap[north-east span-50]
 @[3-5](Determine Artifact output location.)
-@[6-8](Define deployment scripts to be executed.)
+@[7-8](Before Installation script.)
+@[9-10](After Installation script.)
+@[11-13]Application Start script.)
+@[14-17](Application Validation script.)
 @snapend
 +++
 

@@ -4,5 +4,14 @@ files:
   - source: zap-spotify.zip
     destination: /opt/zap-spotify/
 hooks:
+  BeforeInstall:
+    - location: scripts/application_unpack.sh
   AfterInstall:
-    - location: deployment.sh
+    - location: scripts/application_deployment.sh
+  ApplicationStart:
+    - location: scripts/application_start.sh
+      timeout: 3600
+  ValidateService:
+    - location: scripts/application_validation.sh
+      timeout: 3600
+      runas: validation_user
