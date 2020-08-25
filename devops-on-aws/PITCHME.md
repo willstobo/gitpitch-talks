@@ -4,23 +4,23 @@
 ## @color[#FF9900](Amazon Web Services)
 ---
 ### Key takeaways
-- @size[32px](DevOps / Continous Integration / Continous Delivery)
-- @size[32px](AWS DevOps Services)
-- @size[32px](Implementing DevOps on AWS)
+- @size[30px](DevOps / Continous Integration / Continous Delivery)
+- @size[30px](AWS DevOps Services)
+- @size[30px](Implementing DevOps on AWS)
 ---
 
 ### What is DevOps?
 @ul
--  @size[32px](Combination of practices and tools, enabling an organisation to deliver applications and services at high velocity.)
--  @size[32px](The ability to more comfortably and quickly deploy software and infrastructure resources than traditional practices.)
+-  @size[30px](Combination of practices and tools, enabling an organisation to deliver applications and services at high velocity.)
+-  @size[30px](The ability to more comfortably and quickly deploy software and infrastructure resources than traditional practices.)
 @ulend
 +++
 
 ### Why use DevOps?
 @ul
-- @size[32px](To remain competitive. )
-- @size[32px](Managing evolving security & performance requirements. )
-- @size[32px](Maintain stability, increase velocity. )
+- @size[30px](To remain competitive. )
+- @size[30px](Managing evolving security & performance requirements. )
+- @size[30px](Maintain stability, increase velocity. )
 @ulend
 Note:
 - 1. Rapidly changing environment, companies are releasing faster then before by using modern software development practices. If you dont adapt, you will fall behind.
@@ -30,9 +30,9 @@ Note:
 
 ###  How do you do DevOps?
 @ul
-- @size[32px](DevOps isn't one persons job.)
-- @size[32px](Large variety of DevOps tools can be used.)
-- @size[32px](Implemented via modern software development practices)
+- @size[30px](DevOps isn't one persons job.)
+- @size[30px](Large variety of DevOps tools can be used.)
+- @size[30px](Implemented via modern software development practices)
 @ulend
 Note:
 - 1. Encourage the entire team to adopt the DevOps culture. Encourage the devs to build frequently. Encourage the testers to build out automation suites and to run them frequently.
@@ -42,25 +42,25 @@ Note:
 
 ### Continous Integration (CI)
 @ul
-- @size[32px](Practice of regular building, testing and validation of code.)
-- @size[32px](Enable & encourage developers to build one to many times a day, pushing out and testing changes as they are finished.)
-- @size[32px](Key goals: find bugs, improve software quality and reduce the turn around time of new software updates.)
+- @size[30px](Practice of regular building, testing and validation of code.)
+- @size[30px](Enable & encourage developers to build one to many times a day, pushing out and testing changes as they are finished.)
+- @size[30px](Key goals: find bugs, improve software quality and reduce the turn around time of new software updates.)
 @ulend
 +++
 
 ### Continous Delivery (CD)
 @ul
-- @size[32px](Practice of automatically building, testing and preparing code for production releases.)
-- @size[32px](Expands upon CI by deploying all changes to a testing environment.)
-- @size[32px](Typically automated, or partially automated with manual gates for critical steps.)
-- @size[32px](Continous Delivery not Continous Deployment.)
+- @size[30px](Practice of automatically building, testing and preparing code for production releases.)
+- @size[30px](Expands upon CI by deploying all changes to a testing environment.)
+- @size[30px](Typically automated, or partially automated with manual gates for critical steps.)
+- @size[30px](Continous Delivery not Continous Deployment.)
 @ulend
 +++
 
 ### CI / CD
 ![Source: https://blog.gds-gov.tech/that-ci-cd-thing-principles-implementation-tools-aa8e77f9a350 ](devops-on-aws/devops.png)
 @ul
-- @size[32px](DevOps never stops!)
+- @size[30px](DevOps never stops!)
 @ulend
 ---
 
@@ -77,19 +77,19 @@ Note:
 ### AWS CodeCommit
 ![width=150px](devops-on-aws/aws-codecommit.png)
 @ul
-- @size[32px](Fully Managed secure Git based source control service.)
-- @size[32px](Comprehensive access management provided via IAM.)
-- @size[32px](Centralised location for code storage with version control.)
+- @size[30px](Fully Managed secure Git based source control service.)
+- @size[30px](Comprehensive access management provided via IAM.)
+- @size[30px](Centralised location for code storage with version control.)
 @ulend
 +++
 
 ### AWS CodeArtifact
 ![width=150px](devops-on-aws/aws-codeart-sub.png)
 @ul
-- @size[32px](Fully Managed Artifact repository service.)
-- @size[32px](Supports multiple repository types, e.g NPM/Maven/Python.)
-- @size[32px](Allows access to both public & privately hosted repositories.)
-- @size[32px](Centralised location for dependency storage.)
+- @size[30px](Fully Managed Artifact repository service.)
+- @size[30px](Supports multiple repository types, e.g NPM/Maven/Python.)
+- @size[30px](Allows access to both public & privately hosted repositories.)
+- @size[30px](Centralised location for dependency storage.)
 @ulend
 Note:
 - Artifact Storage for applications
@@ -104,10 +104,10 @@ Note:
 ### AWS CodeBuild
 ![width=150px](devops-on-aws/aws-codebuild.png)
 @ul
-- @size[32px](Managed CI service for building & testing application code.)
-- @size[32px](Build steps are run in containers managed by AWS.)
-- @size[32px](Execution steps defined via the 'Buildspec.yaml' file.)
-- @size[32px](Build & test reports can be automatically consumed for display.)
+- @size[30px](Managed CI service for building & testing application code.)
+- @size[30px](Build steps are run in containers managed by AWS.)
+- @size[30px](Execution steps defined via the 'Buildspec.yaml' file.)
+- @size[30px](Build & test reports can be automatically consumed for display.)
 @ulend
 +++?code=devops-on-aws/buildspec.yml&lang=YAML
 
@@ -125,9 +125,9 @@ Note:
 ## AWS CodeDeploy 
 ![width=150px](devops-on-aws/aws-codedeploy.png)]
 @ul
-- @size[32px](Managed application deployment service.)
-- @size[32px](Capable of deploying to both cloud & on-premise infrastructure.)
-- @size[32px](Deployment steps defined via the 'Appspec.yaml' file.)
+- @size[30px](Managed application deployment service.)
+- @size[30px](Capable of deploying to both cloud & on-premise infrastructure.)
+- @size[30px](Deployment steps defined via the 'Appspec.yaml' file.)
 @ulend
 
 Note:
@@ -149,9 +149,9 @@ Note:
 ### AWS CodePipeline
 ![width=150px](devops-on-aws/aws-codepipeline.png)
 @ul
-- @size[32px](Managed continuous delivery service.)
-- @size[32px](Automates the build, test & deploy steps into reusable pipelines.)
-- @size[32px](Capable of integrating with third-party services.)
+- @size[30px](Managed continuous delivery service.)
+- @size[30px](Automates the build, test & deploy steps into reusable pipelines.)
+- @size[30px](Capable of integrating with third-party services.)
 @ulend
 +++
 
@@ -169,8 +169,8 @@ Lets see it all in action!
 ---
 
 ### Recap
-- @size[32px](DevOps / Continous Integration / Continous Delivery)
-- @size[32px](AWS DevOps Services)
-- @size[32px](Implementing DevOps on AWS)
+- @size[30px](DevOps / Continous Integration / Continous Delivery)
+- @size[30px](AWS DevOps Services)
+- @size[30px](Implementing DevOps on AWS)
 ---
 #  @color[#FF9900](Questions?)
