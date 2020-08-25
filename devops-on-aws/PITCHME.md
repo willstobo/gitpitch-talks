@@ -79,6 +79,7 @@ Note:
 @ul
 - @size[32px](Fully Managed secure Git based source control service.)
 - @size[32px](Comprehensive access management provided via IAM.)
+- @size[32px](Centralised location for code storage with complete version control.)
 @ulend
 +++
 
@@ -87,7 +88,8 @@ Note:
 @ul
 - @size[32px](Fully Managed Artifact repository service.)
 - @size[32px](Supports multiple repository types, e.g NPM/Maven/Python.)
-- @size[32px](Allows for private & public hosted repositories.)
+- @size[32px](Allows access to both public & privately hosted repositories.)
+- @size[32px](Centralised location for dependency storage.)
 @ulend
 Note:
 - Artifact Storage for applications
@@ -102,10 +104,10 @@ Note:
 ### AWS CodeBuild
 ![width=150px](devops-on-aws/aws-codebuild.png)
 @ul
-- @size[32px](Managed CI service for building & testing.)
+- @size[32px](Managed CI service for building & testing application code.)
 - @size[32px](Build steps are run in containers managed by AWS.)
-- @size[32px](Execution steps defined via the Buildspec.yaml file.)
-- @size[32px](Can store build & test reports for display.)
+- @size[32px](Execution steps defined via the 'Buildspec.yaml' file.)
+- @size[32px](Build & test reports can be automatically consumed for display.)
 @ulend
 +++?code=devops-on-aws/buildspec.yml&lang=YAML
 
@@ -122,10 +124,10 @@ Note:
 
 ## AWS CodeDeploy 
 ![width=150px](devops-on-aws/aws-codedeploy.png)]
-@ul[list-fade-fragments]
-- @size[32px](AWS deployment service.)
-- @size[32px](Capable of deploying to ECS, Lambda, EC2 and on-premise machines.)
-- @size[32px](Deployment steps defined via the Appspec.yaml file.)
+@ul
+- @size[32px](Managed application deployment service.)
+- @size[32px](Capable of deploying to both cloud & on-premise infrastructure.)
+- @size[32px](Deployment steps defined via the 'Appspec.yaml' file.)
 @ulend
 
 Note:
@@ -147,9 +149,9 @@ Note:
 ### AWS CodePipeline
 ![width=150px](devops-on-aws/aws-codepipeline.png)
 @ul
-- @size[32px](AWS continuous delivery service.)
-- @size[32px](Model and visualise deployment steps into pipelines.)
-- @size[32px](Supports automatic pipeline triggers.)
+- @size[32px](Managed continuous delivery service.)
+- @size[32px](Automates the build, test & deploy steps into reusable pipelines.)
+- @size[32px](Capable of integrating with third-party services.)
 @ulend
 +++
 
