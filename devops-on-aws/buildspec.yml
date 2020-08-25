@@ -4,9 +4,6 @@ phases:
   install:
     commands:
       - echo Entered the install phase...
-      - cd api/
-      - npm install
-      - cd ..
       - npm install
     finally:
       - echo This always runs even if the update or install command fails 
