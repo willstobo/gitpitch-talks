@@ -79,7 +79,7 @@ Note:
 @ul
 - @size[32px](Fully Managed secure Git based source control service.)
 - @size[32px](Comprehensive access management provided via IAM.)
-- @size[32px](Centralised location for code storage with complete version control.)
+- @size[32px](Centralised location for code storage with version control.)
 @ulend
 +++
 
