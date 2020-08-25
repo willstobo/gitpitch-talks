@@ -52,7 +52,7 @@ Note:
 @ul
 - @size[32px](Practice of automatically building, testing and preparing code for production releases.)
 - @size[32px](Expands upon CI by deploying all changes to a testing environment.)
-- @size[32px](Can be fully automated, or partially automated with manual gates for critical steps.)
+- @size[32px](Typically automated, or partially automated with manual gates for critical steps.)
 - @size[32px](Continous Delivery not Continous Deployment.)
 @ulend
 +++
