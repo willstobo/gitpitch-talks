@@ -31,7 +31,7 @@ Note:
 ###  How do you do DevOps?
 @ul
 - @size[30px](DevOps isn't one persons job.)
-- @size[30px](Large variety of DevOps tools can be used, e.g Jenkins, Ansible, Docker)
+- @size[30px](Large variety of DevOps tools can be used. e.g Jenkins, Ansible, Docker)
 - @size[30px](Implemented via modern software development practices)
 @ulend
 Note:
